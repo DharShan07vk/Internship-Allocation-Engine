@@ -1,0 +1,55 @@
+{
+  "timestamp": "2025-09-09T08:52:47.209224",
+  "metrics": {
+    "overview": {
+      "total_students": 1000,
+      "total_internships": 200,
+      "total_capacity": 1572,
+      "total_allocated": 994,
+      "overall_placement_rate": 0.994
+    },
+    "category_breakdown": {
+      "female": {
+        "total": 97,
+        "allocated": 97,
+        "placement_rate": 1.0
+      },
+      "general": {
+        "total": 553,
+        "allocated": 550,
+        "placement_rate": 0.9945750452079566
+      },
+      "reserved": {
+        "total": 161,
+        "allocated": 159,
+        "placement_rate": 0.9875776397515528
+      },
+      "rural": {
+        "total": 189,
+        "allocated": 188,
+        "placement_rate": 0.9947089947089947
+      }
+    },
+    "capacity_utilization": {
+      "average_utilization": 0.6723,
+      "full_capacity_count": 102,
+      "underutilized_count": 65,
+      "utilization_distribution": {
+        "<50%": 48,
+        "50-80%": 26,
+        "80-100%": 106,
+        ">100%": 0
+      }
+    },
+    "quality_metrics": {}
+  },
+  "insights": [
+    "Excellent placement rate achieved! The system is performing very well.",
+    "Internship capacity is underutilized. Consider adjusting allocation constraints or increasing student pool."
+  ],
+  "summary": {
+    "total_processed": 1000,
+    "success_rate": 0.994,
+    "quality_score": 0
+  }
+}

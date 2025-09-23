@@ -1,0 +1,45 @@
+# Configuration settings
+DATABASE_URL: "sqlite:///./internship_allocation.db"
+SECRET_KEY: "your-secret-key-here"
+ALGORITHM: "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES: 30
+
+# ML Model Settings
+EMBEDDING_MODEL: "all-mpnet-base-v2"
+EMBEDDING_CACHE_PATH: "models/embeddings_cache.pkl"
+XGBOOST_MODEL_PATH: "models/xgboost_model.pkl"
+
+# Similarity Settings
+TOP_K_SIMILARITY: 50
+TOP_K_OPTIMIZER: 30
+SIMILARITY_THRESHOLD: 0.3
+
+# Optimization Settings
+OPTIMIZATION_TIME_LIMIT: 120  # seconds
+RURAL_QUOTA: 0.15  # 15%
+RESERVED_QUOTA: 0.20  # 20%
+FEMALE_QUOTA: 0.30  # 30%
+
+# XGBoost Parameters
+XGBOOST_PARAMS:
+  objective: "binary:logistic"
+  max_depth: 6
+  learning_rate: 0.1
+  n_estimators: 100
+  subsample: 0.8
+  colsample_bytree: 0.8
+
+# API Settings
+API_HOST: "0.0.0.0"
+API_PORT: 8000
+API_DEBUG: true
+
+# Logging
+LOG_LEVEL: "INFO"
+LOG_FORMAT: "{time} | {level} | {message}"
+
+# Data Paths
+STUDENTS_DATA_PATH: "data/students.csv"
+INTERNSHIPS_DATA_PATH: "data/internships.csv"
+ALLOCATIONS_OUTPUT_PATH: "data/allocations.csv"
+ANALYTICS_OUTPUT_PATH: "data/analytics.json"

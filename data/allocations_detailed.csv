@@ -1,0 +1,1001 @@
+student_id,student_name,student_gpa,student_category,student_location,internship_id,company,title,internship_location,stipend,work_mode,similarity_score,success_probability
+STU00967,Dev Goel,8.45,rural,Chennai,INT00157,ICICI Bank,Strategy Intern,Hyderabad,91248.0,Hybrid,0.8074064033087703,0.9239687700743104
+STU00081,Arjun D. Malhotra,9.39,general,Ahmedabad,INT00153,PhonePe,Data Analyst Intern,Bangalore,53174.0,Hybrid,0.7830478145877222,0.95
+STU00784,Aryan Kapoor,9.6,female,Delhi,INT00077,Netflix,ML Engineer Intern,Pune,88109.0,On-site,0.7611465413647338,0.95
+STU00013,Ravi Nair,8.76,general,Ahmedabad,INT00117,Infosys,Full Stack Developer Intern,Surat,28808.0,On-site,0.8095904149936628,0.8636693866646656
+STU00695,Riya Aggarwal,8.1,rural,Jaipur,INT00185,Tech Mahindra,Full Stack Developer Intern,Gurgaon,35849.0,On-site,0.7538915753813895,0.9256638387341857
+STU00933,Geeta Joshi,9.37,general,Jaipur,INT00192,KPMG,Business Analyst Intern,Chennai,57601.0,Hybrid,0.7348952597183824,0.95
+STU00203,Priya Q. Singh,9.46,reserved,Pune,INT00180,Flipkart,Android Developer Intern,Pune,42269.0,On-site,0.7246340146016921,0.95
+STU00737,Arjun V. Kumar,8.19,female,Ahmedabad,INT00149,HDFC Bank,Cybersecurity Intern,Pune,80616.0,On-site,0.8060849631321068,0.827587729407209
+STU00789,Ira R. Thakur,8.79,rural,Pune,INT00011,Meta,Backend Developer Intern,Pune,92363.0,On-site,0.7563571345828736,0.8933852862051646
+STU00845,Amit Mishra,9.72,general,Delhi,INT00046,Goldman Sachs,InfoSec Intern,Mumbai,67597.0,Remote,0.7185718356891978,0.95
+STU00464,Kavya O. Goel,8.74,general,Delhi,INT00162,Microsoft,AI Research Intern,Kolkata,145673.0,On-site,0.7168708556774773,0.9479529298678675
+STU00426,Sara B. Gupta,9.38,general,Delhi,INT00136,PhonePe,iOS Developer Intern,Chennai,58638.0,Hybrid,0.7614076242217838,0.8670871376128413
+STU00996,Aarav Goel,9.26,general,Noida,INT00080,HDFC Bank,Business Analyst Intern,Hyderabad,61194.0,Remote,0.7306800589465196,0.9117446206948251
+STU00100,Aditi Jindal,9.43,general,Bangalore,INT00133,Netflix,ML Engineer Intern,Chennai,115532.0,Remote,0.7290287251253644,0.9127081210306723
+STU00954,Saanvi Yadav,8.19,general,Jaipur,INT00122,Amazon,Data Analyst Intern,Chennai,108477.0,On-site,0.7659991885523978,0.8553757121654886
+STU00432,Riya V. Saxena,9.47,reserved,Mumbai,INT00134,Freshworks,Frontend Developer Intern,Gurgaon,60155.0,Remote,0.7638172367459075,0.8582497877502444
+STU00204,Aahan Nair,8.94,general,Bangalore,INT00063,Google,Cloud Engineer Intern,Pune,88330.0,On-site,0.7220047057871334,0.9059323859973736
+STU00920,Meena Mittal,8.97,general,Bangalore,INT00093,Morgan Stanley,Product Management Intern,Kolkata,97612.0,Remote,0.7056798241993252,0.9201623247495954
+STU00511,Ayaan Mehta,9.46,reserved,Surat,INT00013,TCS,Full Stack Developer Intern,Kolkata,32004.0,Remote,0.684715084939219,0.95
+STU00820,Neha Yadav,9.79,general,Bangalore,INT00074,TCS,Web Developer Intern,Jaipur,41727.0,On-site,0.7055994918170576,0.916713125711346
+STU00902,Aditi Kapoor,8.02,general,Delhi,INT00083,HDFC Bank,Cybersecurity Intern,Delhi,106622.0,Hybrid,0.7215575781733552,0.8913582931901338
+STU00898,Fatima Kapoor,7.7,rural,Surat,INT00133,Netflix,ML Engineer Intern,Chennai,115532.0,Remote,0.7830021077694324,0.7963911084889751
+STU00764,Aditya Goyal,8.98,general,Hyderabad,INT00057,Freshworks,AI Research Intern,Hyderabad,42547.0,Hybrid,0.6897170527359785,0.9325280860716418
+STU00192,Shaurya Agarwal,8.7,female,Bangalore,INT00075,HCL Technologies,Frontend Developer Intern,Noida,40202.0,On-site,0.7069127318440989,0.9016684809217635
+STU00428,Rohan Kapoor,8.82,rural,Hyderabad,INT00022,JP Morgan,InfoSec Intern,Pune,62507.0,Hybrid,0.7333781458085739,0.8599517976198257
+STU00900,Nikhil Q. Bansal,9.39,general,Hyderabad,INT00149,HDFC Bank,Cybersecurity Intern,Pune,80616.0,On-site,0.7449225062693148,0.8343866249780827
+STU00650,Aadhya Mishra,9.64,general,Delhi,INT00159,Meta,Deep Learning Intern,Delhi,91362.0,On-site,0.6985159645790235,0.9024113039557795
+STU00138,Ishaan J. Aggarwal,9.24,female,Mumbai,INT00009,Netflix,Deep Learning Intern,Gurgaon,107760.0,On-site,0.674568784770819,0.9336609964767847
+STU00380,Atharv Mishra,9.19,general,Gurgaon,INT00124,JP Morgan,InfoSec Intern,Gurgaon,75792.0,Hybrid,0.6952589807292394,0.9023464896761366
+STU00254,Arjun Sharma,9.19,general,Ahmedabad,INT00044,Infosys,Strategy Intern,Chennai,39156.0,Remote,0.6833102053110692,0.9170334412233567
+STU00443,Rekha Shah,6.6,rural,Bangalore,INT00162,Microsoft,AI Research Intern,Kolkata,145673.0,On-site,0.798243959160434,0.7441338600189271
+STU00460,Saanvi Goyal,9.35,general,Pune,INT00188,BYJU'S,Android Developer Intern,Kolkata,73648.0,On-site,0.6906741990344463,0.9046697603860506
+STU00790,Ravi G. Singh,8.94,general,Kolkata,INT00031,EY,Data Analyst Intern,Kolkata,70257.0,On-site,0.6811769739373339,0.9174764616932589
+STU00669,Rahul Patel,8.12,general,Gurgaon,INT00070,Netflix,AI Research Intern,Chennai,143656.0,Hybrid,0.7146106179486053,0.863124566807036
+STU00119,Khushi Q. Aggarwal,9.49,rural,Mumbai,INT00121,Deloitte,UI/UX Designer Intern,Mumbai,83266.0,Hybrid,0.6786043374929223,0.9143963128718415
+STU00047,Myra Sharma,8.77,rural,Gurgaon,INT00157,ICICI Bank,Strategy Intern,Hyderabad,91248.0,Hybrid,0.6817889111948808,0.9085075565920931
+STU00488,Tara Thakur,9.13,rural,Mumbai,INT00153,PhonePe,Data Analyst Intern,Bangalore,53174.0,Hybrid,0.693137296752705,0.8902148128178009
+STU00286,Dev Bansal,8.76,rural,Bangalore,INT00162,Microsoft,AI Research Intern,Kolkata,145673.0,On-site,0.6803360396215683,0.9043042569884369
+STU00675,Krishna Jindal,9.1,rural,Mumbai,INT00193,Zomato,Android Developer Intern,Jaipur,61684.0,Hybrid,0.6901513698758425,0.8894018705391532
+STU00402,Aryan Pandey,8.73,general,Gurgaon,INT00103,Flipkart,Data Analyst Intern,Bangalore,57222.0,On-site,0.6915511313681666,0.8846832227152586
+STU00578,Kartik Nair,8.95,general,Gurgaon,INT00195,Morgan Stanley,InfoSec Intern,Ahmedabad,98931.0,Hybrid,0.7024413971091994,0.8676408929237343
+STU00397,Priya Nair,8.86,female,Noida,INT00198,Ola,Deep Learning Intern,Chennai,53119.0,Hybrid,0.7224121440621916,0.8362599514020431
+STU00003,Geeta Mittal,8.91,rural,Noida,INT00085,HCL Technologies,Frontend Developer Intern,Bangalore,25622.0,On-site,0.6945200861557256,0.8780556507262954
+STU00978,Ravi Yadav,7.98,general,Mumbai,INT00193,Zomato,Android Developer Intern,Jaipur,61684.0,Hybrid,0.7076513560069078,0.8579620321886223
+STU00804,Keya Tiwari,8.18,general,Mumbai,INT00164,Cognizant,Software Engineer Intern,Mumbai,49568.0,Remote,0.6875794270727278,0.8878671791415869
+STU00594,Neha Malhotra,9.25,general,Surat,INT00137,Wipro,Software Engineer Intern,Delhi,25404.0,Hybrid,0.6826298999789374,0.890597446557789
+STU00739,Pari E. Pandey,9.48,rural,Hyderabad,INT00094,Infosys,Full Stack Developer Intern,Delhi,31559.0,On-site,0.665426832101533,0.916251917589807
+STU00365,Ananya Mittal,8.33,general,Bangalore,INT00149,HDFC Bank,Cybersecurity Intern,Pune,80616.0,On-site,0.7027408069244702,0.8552791743678447
+STU00149,Geeta Rajput,9.16,general,Mumbai,INT00079,Goldman Sachs,Full Stack Developer Intern,Kolkata,80331.0,Remote,0.6775697530953926,0.8926607165427385
+STU00389,Riya Yadav,8.21,general,Noida,INT00079,Goldman Sachs,Full Stack Developer Intern,Kolkata,80331.0,Remote,0.681255291310897,0.8869476836297596
+STU00438,Riya L. Jain,7.89,general,Delhi,INT00082,Amazon,ML Engineer Intern,Surat,141474.0,On-site,0.7035181634335718,0.8529509466999388
+STU00945,Priya Singh,7.98,rural,Jaipur,INT00067,TCS,Software Engineer Intern,Delhi,34425.0,On-site,0.6936814233544244,0.8665915809500939
+STU00656,Anaya Shah,8.83,general,Kolkata,INT00072,Freshworks,Frontend Developer Intern,Pune,67785.0,On-site,0.6844321411456871,0.8801682386508858
+STU00566,Sita Q. Singh,8.68,rural,Hyderabad,INT00076,Freshworks,Android Developer Intern,Mumbai,55342.0,On-site,0.6908534583527988,0.8690391484524203
+STU00374,Ananya Agarwal,8.89,rural,Ahmedabad,INT00154,ICICI Bank,Cybersecurity Intern,Ahmedabad,105528.0,On-site,0.7067357548485088,0.844129784289023
+STU00729,Rahul W. Chauhan,9.19,general,Kolkata,INT00133,Netflix,ML Engineer Intern,Chennai,115532.0,Remote,0.668932031102561,0.9001956008588612
+STU00512,Pari Nair,8.66,general,Ahmedabad,INT00042,Paytm,Data Analyst Intern,Chennai,64524.0,On-site,0.6704462112556047,0.8977290343826361
+STU00437,Rekha Sharma,6.62,general,Noida,INT00027,Zomato,iOS Developer Intern,Pune,78750.0,Hybrid,0.7355762629113697,0.7979035995713701
+STU00520,Sunita Singh,8.29,general,Delhi,INT00069,JP Morgan,Software Engineer Intern,Bangalore,84654.0,Remote,0.6756122545872797,0.8856067362177078
+STU00239,Pihu Mittal,9.25,rural,Surat,INT00044,Infosys,Strategy Intern,Chennai,39156.0,Remote,0.6796617033348968,0.8790908607180185
+STU00649,Reyansh Yadav,8.82,reserved,Surat,INT00048,Google,Data Science Intern,Ahmedabad,134459.0,On-site,0.7146920818036331,0.8237397469666581
+STU00666,Reyansh G. Goyal,8.98,rural,Pune,INT00010,PwC,Business Analyst Intern,Hyderabad,44652.0,On-site,0.7218723813196776,0.8110968746345684
+STU00706,Sneha Jain,9.1,general,Mumbai,INT00019,Deloitte,Business Analyst Intern,Mumbai,48352.0,On-site,0.6999671523393469,0.843839302838203
+STU00561,Ayaan L. Verma,7.38,reserved,Hyderabad,INT00084,McKinsey,ML Engineer Intern,Hyderabad,55451.0,On-site,0.6977920043582573,0.8465300420353901
+STU00491,Keya Malhotra,8.38,general,Noida,INT00046,Goldman Sachs,InfoSec Intern,Mumbai,67597.0,Remote,0.7442500319942373,0.7759583727551157
+STU00305,Vihaan S. Chopra,9.08,general,Ahmedabad,INT00162,Microsoft,AI Research Intern,Kolkata,145673.0,On-site,0.6801766301731934,0.8704210641903348
+STU00345,Dev Jindal,8.86,reserved,Kolkata,INT00079,Goldman Sachs,Full Stack Developer Intern,Kolkata,80331.0,Remote,0.6564209127010613,0.897609986640892
+STU00467,Diya X. Verma,9.47,general,Mumbai,INT00129,Accenture,Product Designer Intern,Mumbai,44871.0,Remote,0.6921132716570458,0.842970155981629
+STU00306,Aryan P. Agarwal,9.06,reserved,Surat,INT00003,BYJU'S,React Developer Intern,Hyderabad,78336.0,On-site,0.6675875335486858,0.8792654835842225
+STU00273,Aryan Patel,9.18,general,Kolkata,INT00121,Deloitte,UI/UX Designer Intern,Mumbai,83266.0,Hybrid,0.6551099445916567,0.8973918492981333
+STU00409,Priya Kumar,7.6,general,Jaipur,INT00115,Ola,Web Developer Intern,Gurgaon,45467.0,Remote,0.7139824336923116,0.8071232564912634
+STU00411,Advaith Mehta,8.36,general,Jaipur,INT00064,McKinsey,Data Analyst Intern,Gurgaon,67936.0,Hybrid,0.7268624373639724,0.7870726670779092
+STU00461,Nikhil Z. Goyal,8.36,general,Mumbai,INT00151,Accenture,Strategy Intern,Mumbai,88233.0,On-site,0.7426298810319727,0.7612629965770047
+STU00970,Pooja Chauhan,9.22,general,Surat,INT00149,HDFC Bank,Cybersecurity Intern,Pune,80616.0,On-site,0.6834907010323736,0.8491607503003848
+STU00076,Lata L. Singh,9.68,female,Bangalore,INT00136,PhonePe,iOS Developer Intern,Chennai,58638.0,Hybrid,0.6458792270488856,0.9047833415220258
+STU00959,Kartik Patel,7.68,general,Ahmedabad,INT00093,Morgan Stanley,Product Management Intern,Kolkata,97612.0,Remote,0.7175615064397195,0.7962351819711253
+STU00262,Harsh D. Chauhan,6.75,general,Bangalore,INT00162,Microsoft,AI Research Intern,Kolkata,145673.0,On-site,0.7009895381754834,0.8203456681278886
+STU00713,Ira R. Singh,6.72,female,Kolkata,INT00162,Microsoft,AI Research Intern,Kolkata,145673.0,On-site,0.7466884659601903,0.7517797249912189
+STU00811,Amit Kapoor,9.14,female,Jaipur,INT00087,JP Morgan,Data Analyst Intern,Jaipur,94475.0,On-site,0.6461857923553302,0.9000576860681873
+STU00327,Vihaan Verma,8.97,general,Chennai,INT00131,PhonePe,React Developer Intern,Chennai,50792.0,Hybrid,0.6572143756573007,0.8822846672469685
+STU00419,Rohan Kapoor,7.27,general,Bangalore,INT00051,Amazon,Full Stack Developer Intern,Chennai,100232.0,Remote,0.6847957982072667,0.8400775185034315
+STU00455,Pihu Iyer,9.02,general,Delhi,INT00070,Netflix,AI Research Intern,Chennai,143656.0,Hybrid,0.6878563445704733,0.834614887163743
+STU00216,Ira Iyer,8.8,female,Chennai,INT00174,Wipro,Web Developer Intern,Bangalore,27112.0,On-site,0.6579858275993413,0.8784294314417509
+STU00390,Ajay Z. Kumar,7.61,female,Chennai,INT00129,Accenture,Product Designer Intern,Mumbai,44871.0,Remote,0.711885624245604,0.7975374399174464
+STU00574,Shaurya G. Singh,8.84,general,Ahmedabad,INT00006,BYJU'S,Deep Learning Intern,Noida,42185.0,Hybrid,0.6657818143024684,0.8665253521467647
+STU00235,Vihaan B. Bansal,9.39,rural,Bangalore,INT00133,Netflix,ML Engineer Intern,Chennai,115532.0,Remote,0.6508761504772429,0.8888558145942174
+STU00508,Rekha Thakur,9.52,rural,Gurgaon,INT00098,Ola,React Developer Intern,Surat,40323.0,On-site,0.6484853968212827,0.8913047347262867
+STU00448,Sai Nair,9.35,reserved,Pune,INT00126,HDFC Bank,Software Engineer Intern,Ahmedabad,72453.0,On-site,0.6391871488274387,0.9049148271158595
+STU00709,Sunita Pandey,9.14,general,Jaipur,INT00176,Swiggy,ML Engineer Intern,Jaipur,43993.0,Hybrid,0.6416653950143929,0.8966372686146357
+STU00738,Saanvi B. Agarwal,6.82,general,Gurgaon,INT00108,Goldman Sachs,Strategy Intern,Gurgaon,110539.0,On-site,0.710749916291526,0.7926014495986095
+STU00662,Shaurya Thakur,9.31,general,Gurgaon,INT00066,PwC,ML Engineer Intern,Delhi,50003.0,On-site,0.6559404496086432,0.874627189784928
+STU00711,Aadhya J. Kapoor,8.98,general,Hyderabad,INT00024,Ola,Data Analyst Intern,Jaipur,75338.0,On-site,0.6494029936009351,0.8836520376398513
+STU00956,Ira Tiwari,8.93,general,Hyderabad,INT00077,Netflix,ML Engineer Intern,Pune,88109.0,On-site,0.6515994783790531,0.8799165012725063
+STU00828,Rohan S. Aggarwal,6.69,general,Gurgaon,INT00150,Flipkart,Deep Learning Intern,Jaipur,54142.0,On-site,0.728257753781258,0.7647043757704127
+STU00020,Meena B. Mittal,8.97,rural,Surat,INT00014,EY,Backend Developer Intern,Surat,89019.0,On-site,0.6498765415670884,0.8799393187101036
+STU00931,Meena Goyal,7.55,general,Gurgaon,INT00025,Paytm,Deep Learning Intern,Pune,68780.0,On-site,0.6892652682406477,0.8203334275872419
+STU00486,Ajay Bansal,7.64,general,Noida,INT00070,Netflix,AI Research Intern,Chennai,143656.0,Hybrid,0.6966828935896223,0.8085942379410196
+STU00892,Rita Jindal,7.14,general,Hyderabad,INT00028,McKinsey,Graphic Designer Intern,Chennai,57996.0,Hybrid,0.7263948517281547,0.7637160370106484
+STU00731,Khushi Goel,8.91,female,Bangalore,INT00103,Flipkart,Data Analyst Intern,Bangalore,57222.0,On-site,0.6895024388021449,0.8184210701914502
+STU00266,Sai Mehta,9.23,general,Hyderabad,INT00070,Netflix,AI Research Intern,Chennai,143656.0,Hybrid,0.6836847330533933,0.8233937974474114
+STU00376,Keya Malhotra,9.35,general,Gurgaon,INT00069,JP Morgan,Software Engineer Intern,Bangalore,84654.0,Remote,0.6917969422509845,0.8087854077543659
+STU00556,Riya J. Verma,9.42,general,Hyderabad,INT00083,HDFC Bank,Cybersecurity Intern,Delhi,106622.0,Hybrid,0.6725512938385676,0.8359718130157356
+STU00562,Atharv Agarwal,9.05,general,Hyderabad,INT00177,JP Morgan,InfoSec Intern,Chennai,99132.0,On-site,0.6503723557230352,0.8688689510485313
+STU00691,Kavya Saxena,7.57,reserved,Ahmedabad,INT00007,HDFC Bank,InfoSec Intern,Ahmedabad,67310.0,On-site,0.7241796754774912,0.7581350864546763
+STU00103,Anika Gupta,9.05,reserved,Surat,INT00151,Accenture,Strategy Intern,Mumbai,88233.0,On-site,0.6371742569292881,0.8871667052366803
+STU00683,Aarav Mishra,7.98,general,Mumbai,INT00006,BYJU'S,Deep Learning Intern,Noida,42185.0,Hybrid,0.6854661419465248,0.8145945850561147
+STU00146,Darsh Gupta,9.02,rural,Gurgaon,INT00030,Microsoft,ML Engineer Intern,Noida,143654.0,On-site,0.6384761179495714,0.8849049264815547
+STU00033,Diya Jindal,8.6,general,Bangalore,INT00151,Accenture,Strategy Intern,Mumbai,88233.0,On-site,0.6722646198964988,0.8335224008070397
+STU00852,Meena Joshi,6.82,rural,Chennai,INT00115,Ola,Web Developer Intern,Gurgaon,45467.0,Remote,0.7247724950806368,0.7536992189858598
+STU00343,Rahul Kapoor,9.0,rural,Kolkata,INT00083,HDFC Bank,Cybersecurity Intern,Delhi,106622.0,Hybrid,0.6472238413525346,0.8696655168078398
+STU00301,Vikram E. Shah,9.33,rural,Jaipur,INT00200,Zomato,Deep Learning Intern,Jaipur,43384.0,Remote,0.635071401950291,0.8877080782018502
+STU00980,Amit S. Gupta,8.5,general,Chennai,INT00122,Amazon,Data Analyst Intern,Chennai,108477.0,On-site,0.6464295403130567,0.8698863252712447
+STU00903,Aarav Goyal,8.92,general,Ahmedabad,INT00106,KPMG,Full Stack Developer Intern,Mumbai,77523.0,Remote,0.6533553364018146,0.8583463795938802
+STU00289,Rahul Agarwal,8.33,general,Mumbai,INT00098,Ola,React Developer Intern,Surat,40323.0,On-site,0.671684092372528,0.8300107158706
+STU00084,Aarav Mishra,9.07,general,Mumbai,INT00082,Amazon,ML Engineer Intern,Surat,141474.0,On-site,0.6903137626558238,0.8014901042428366
+STU00597,Anaya Aggarwal,7.95,general,Chennai,INT00048,Google,Data Science Intern,Ahmedabad,134459.0,On-site,0.6786060670461259,0.8170447443435204
+STU00678,Anika Saxena,8.9,reserved,Jaipur,INT00007,HDFC Bank,InfoSec Intern,Ahmedabad,67310.0,On-site,0.6418711203432955,0.8678520975548055
+STU00781,Ajay Chopra,8.98,rural,Bangalore,INT00119,JP Morgan,Full Stack Developer Intern,Noida,110395.0,On-site,0.6609017231645461,0.8391221047874265
+STU00848,Anika Mehta,8.85,rural,Delhi,INT00147,TCS,Web Developer Intern,Surat,44561.0,On-site,0.638132625919569,0.8716977681817891
+STU00740,Meena Agarwal,9.01,reserved,Delhi,INT00155,EY,Software Engineer Intern,Ahmedabad,75868.0,On-site,0.6341840285911631,0.8755016238436188
+STU00614,Amit Saxena,8.3,rural,Gurgaon,INT00068,KPMG,Data Science Intern,Mumbai,79911.0,On-site,0.6722221179587297,0.817809246421196
+STU00758,Shaurya Sharma,9.37,general,Gurgaon,INT00026,Zomato,Mobile App Developer Intern,Gurgaon,61191.0,Remote,0.6247508149623492,0.887583316364344
+STU00992,Atharv K. Saxena,9.19,general,Delhi,INT00120,PwC,Product Designer Intern,Mumbai,87700.0,On-site,0.688858658888072,0.7914161030326596
+STU00088,Kartik Saxena,8.35,rural,Kolkata,INT00050,Goldman Sachs,Security Analyst Intern,Kolkata,80852.0,On-site,0.653433958025248,0.8443546278898462
+STU00335,Aryan S. Yadav,8.0,rural,Pune,INT00159,Meta,Deep Learning Intern,Delhi,91362.0,On-site,0.7207305987779049,0.7428682547660029
+STU00109,Daksh Pandey,8.35,general,Ahmedabad,INT00131,PhonePe,React Developer Intern,Chennai,50792.0,Hybrid,0.6629351342940896,0.8291240183112452
+STU00259,Pooja Verma,8.78,general,Kolkata,INT00136,PhonePe,iOS Developer Intern,Chennai,58638.0,Hybrid,0.6359047440885615,0.8683597804500494
+STU00632,Fatima E. Malhotra,9.3,female,Gurgaon,INT00115,Ola,Web Developer Intern,Gurgaon,45467.0,Remote,0.6339653555431205,0.8712163002987022
+STU00458,Aditya Saxena,9.04,reserved,Pune,INT00020,TCS,Full Stack Developer Intern,Kolkata,25812.0,On-site,0.6522896531166957,0.8433631862733967
+STU00593,Harsh Chopra,9.48,female,Pune,INT00056,Accenture,Software Engineer Intern,Pune,60246.0,On-site,0.6732597134403554,0.8098980181760971
+STU00375,Aditya Kapoor,9.28,general,Ahmedabad,INT00165,Meta,Site Reliability Intern,Gurgaon,113438.0,On-site,0.6284306732103532,0.8771300416780352
+STU00199,Lata Jain,8.58,general,Kolkata,INT00191,Axis Bank,Backend Developer Intern,Kolkata,116850.0,Remote,0.6657973426878392,0.8200296028370422
+STU00198,Amit Pandey,7.46,reserved,Hyderabad,INT00060,EY,Full Stack Developer Intern,Hyderabad,58333.0,On-site,0.687522141699602,0.783950353955441
+STU00399,Rahul Iyer,7.68,reserved,Chennai,INT00103,Flipkart,Data Analyst Intern,Bangalore,57222.0,On-site,0.6696458474742089,0.8099289112664525
+STU00546,Meena Mehta,9.25,reserved,Kolkata,INT00089,KPMG,Data Science Intern,Chennai,53072.0,On-site,0.6212759843121249,0.8795388271818378
+STU00361,Ira Tiwari,8.58,general,Ahmedabad,INT00141,Microsoft,Data Analyst Intern,Bangalore,119692.0,On-site,0.6425583113567289,0.8468021195248852
+STU00547,Daksh Malhotra,8.97,rural,Delhi,INT00129,Accenture,Product Designer Intern,Mumbai,44871.0,Remote,0.6278067328369531,0.8676043794356345
+STU00028,Myra I. Verma,8.66,rural,Mumbai,INT00120,PwC,Product Designer Intern,Mumbai,87700.0,On-site,0.669762828396823,0.8046243619052573
+STU00479,Daksh Jain,8.9,general,Jaipur,INT00168,Flipkart,Data Analyst Intern,Kolkata,70819.0,On-site,0.6385172526581931,0.8514343034043984
+STU00658,Saanvi Kapoor,8.7,general,Mumbai,INT00132,Netflix,DevOps Engineer Intern,Ahmedabad,133120.0,On-site,0.6375723695047947,0.8528196034449971
+STU00131,Priya Saxena,6.86,general,Bangalore,INT00142,PwC,Graphic Designer Intern,Pune,47167.0,On-site,0.6717609190327392,0.8012524859689882
+STU00311,Aditya Gupta,8.19,general,Ahmedabad,INT00081,Zomato,Mobile App Developer Intern,Gurgaon,45109.0,Remote,0.6417097087806657,0.8463169136269096
+STU00465,Arjun Rajput,7.56,general,Surat,INT00043,EY,Strategy Intern,Bangalore,57408.0,On-site,0.657323162576362,0.8217383129462916
+STU00753,Riya Gupta,8.98,rural,Surat,INT00105,McKinsey,Graphic Designer Intern,Gurgaon,67298.0,On-site,0.6645943678640734,0.8107296712820657
+STU00256,Ananya Mittal,8.57,general,Ahmedabad,INT00154,ICICI Bank,Cybersecurity Intern,Ahmedabad,105528.0,On-site,0.6357740734342896,0.8536471977030053
+STU00481,Harsh L. Mittal,9.35,general,Jaipur,INT00041,HCL Technologies,Software Engineer Intern,Surat,44284.0,Remote,0.6232802863501166,0.871482056889852
+STU00806,Dev N. Mehta,9.53,rural,Noida,INT00048,Google,Data Science Intern,Ahmedabad,134459.0,On-site,0.6289457802452114,0.8616200839218369
+STU00072,Aadhya G. Chauhan,7.47,general,Pune,INT00198,Ola,Deep Learning Intern,Chennai,53119.0,Hybrid,0.6522081874773228,0.8256063152331305
+STU00640,Ayaan C. Chopra,8.58,female,Hyderabad,INT00080,HDFC Bank,Business Analyst Intern,Hyderabad,61194.0,Remote,0.642174061823914,0.8404738088173336
+STU00749,Pari Joshi,9.21,reserved,Chennai,INT00132,Netflix,DevOps Engineer Intern,Ahmedabad,133120.0,On-site,0.6410417233497185,0.8421464340643552
+STU00006,Karan E. Jain,8.55,reserved,Kolkata,INT00057,Freshworks,AI Research Intern,Hyderabad,42547.0,Hybrid,0.6499236711567772,0.8270376895933753
+STU00660,Ayaan Joshi,7.87,rural,Noida,INT00162,Microsoft,AI Research Intern,Kolkata,145673.0,On-site,0.650925104386425,0.8255149516551278
+STU00051,Amit V. Iyer,8.51,general,Bangalore,INT00172,Freshworks,AI Research Intern,Surat,79961.0,On-site,0.6388691671159303,0.8429376926578598
+STU00999,Ananya O. Agarwal,9.59,female,Chennai,INT00036,PwC,ML Engineer Intern,Chennai,62304.0,On-site,0.6703198443824497,0.7949315804641574
+STU00534,Aditya Bansal,8.61,reserved,Chennai,INT00038,Goldman Sachs,Strategy Intern,Hyderabad,108685.0,Remote,0.6839083875148658,0.7743746902461635
+STU00191,Riya Chauhan,8.27,general,Bangalore,INT00025,Paytm,Deep Learning Intern,Pune,68780.0,On-site,0.6519640172766263,0.8211429599810471
+STU00823,Rahul Gupta,8.58,reserved,Pune,INT00181,TCS,Backend Developer Intern,Bangalore,37398.0,Remote,0.6351731886367469,0.8459728267232344
+STU00858,Aahan G. Iyer,9.05,general,Bangalore,INT00029,Netflix,Software Engineer Intern,Mumbai,123369.0,On-site,0.6674102366257465,0.7974125956778606
+STU00505,Arnav Kumar,7.71,rural,Bangalore,INT00095,Freshworks,Data Analyst Intern,Ahmedabad,42953.0,On-site,0.6826797562201847,0.7744694276755145
+STU00440,Geeta Tiwari,6.93,rural,Pune,INT00080,HDFC Bank,Business Analyst Intern,Hyderabad,61194.0,Remote,0.686598868424634,0.7680805841729587
+STU00974,Nisha Aggarwal,8.04,reserved,Chennai,INT00195,Morgan Stanley,InfoSec Intern,Ahmedabad,98931.0,Hybrid,0.6974491252133859,0.7512670525342143
+STU00605,Amit Tiwari,7.88,general,Noida,INT00023,McKinsey,Product Management Intern,Noida,63869.0,Remote,0.6863421905698179,0.7677167571928649
+STU00122,Anaya W. Singh,8.87,general,Jaipur,INT00043,EY,Strategy Intern,Bangalore,57408.0,On-site,0.6394217406432369,0.837579268933852
+STU00603,Vikram Kumar,9.29,general,Noida,INT00154,ICICI Bank,Cybersecurity Intern,Ahmedabad,105528.0,On-site,0.6241500235042465,0.8601332748884348
+STU00240,Advaith Goel,7.45,female,Bangalore,INT00019,Deloitte,Business Analyst Intern,Mumbai,48352.0,On-site,0.7121377064442863,0.7274404405274726
+STU00099,Lata T. Gupta,8.14,general,Noida,INT00034,Flipkart,React Developer Intern,Noida,78353.0,Hybrid,0.6521984028140959,0.8167144019491432
+STU00930,Ajay Sharma,8.68,rural,Ahmedabad,INT00074,TCS,Web Developer Intern,Jaipur,41727.0,On-site,0.645687005458676,0.824372460807203
+STU00056,Saanvi Joshi,6.89,general,Noida,INT00042,Paytm,Data Analyst Intern,Chennai,64524.0,On-site,0.6605562654531372,0.8013441722583118
+STU00990,Ananya Chauhan,8.96,general,Chennai,INT00091,Unacademy,React Developer Intern,Ahmedabad,56490.0,On-site,0.6428350255029568,0.8278297552578566
+STU00115,Aadhya H. Nair,9.01,rural,Hyderabad,INT00151,Accenture,Strategy Intern,Mumbai,88233.0,On-site,0.6238332554296813,0.8562175161617017
+STU00840,Priya Mishra,9.2,rural,Surat,INT00144,KPMG,Product Management Intern,Ahmedabad,53557.0,On-site,0.6422358617996554,0.8269592661144696
+STU00708,Ira Mittal,8.64,general,Bangalore,INT00108,Goldman Sachs,Strategy Intern,Gurgaon,110539.0,On-site,0.6535288388427857,0.8085330383351187
+STU00154,Ira Tiwari,9.35,general,Noida,INT00192,KPMG,Business Analyst Intern,Chennai,57601.0,Hybrid,0.6227517918474513,0.8540809399885386
+STU00159,Pari Nair,7.75,general,Mumbai,INT00165,Meta,Site Reliability Intern,Gurgaon,113438.0,On-site,0.6442936257800431,0.8214462267887339
+STU00105,Nikhil Verma,9.38,female,Noida,INT00135,TCS,Business Analyst Intern,Bangalore,36659.0,On-site,0.6294154467985785,0.842802130803398
+STU00528,Arnav Rajput,8.84,general,Surat,INT00005,Apple,Software Engineer Intern,Bangalore,145435.0,Remote,0.6395391219431088,0.8274466430108509
+STU00655,Ira N. Singh,9.41,rural,Ahmedabad,INT00021,Tech Mahindra,Backend Developer Intern,Kolkata,32304.0,On-site,0.6174583574163351,0.8603337524748611
+STU00164,Riya E. Rajput,7.66,general,Mumbai,INT00093,Morgan Stanley,Product Management Intern,Kolkata,97612.0,Remote,0.6545112956025718,0.8039719962214582
+STU00010,Geeta T. Jindal,7.89,general,Pune,INT00197,Microsoft,Machine Learning Intern,Pune,116094.0,Remote,0.6523016359930105,0.8053762358402856
+STU00423,Dev Nair,6.73,general,Kolkata,INT00197,Microsoft,Machine Learning Intern,Pune,116094.0,Remote,0.6630908569464834,0.7886891595955665
+STU00016,Sneha Iyer,8.99,general,Gurgaon,INT00143,ICICI Bank,Product Management Intern,Gurgaon,85633.0,On-site,0.6544116931522903,0.8015578651665749
+STU00987,Sara Jindal,7.79,rural,Chennai,INT00142,PwC,Graphic Designer Intern,Pune,47167.0,On-site,0.6509259088860995,0.8051599325460725
+STU00807,Aditya Goel,9.23,general,Chennai,INT00044,Infosys,Strategy Intern,Chennai,39156.0,Remote,0.6381986261715389,0.8241400703407404
+STU00050,Rahul M. Tiwari,8.8,general,Noida,INT00194,Tech Mahindra,Backend Developer Intern,Mumbai,26888.0,On-site,0.665707043836123,0.7822369630971462
+STU00207,Aarav Kapoor,8.02,general,Delhi,INT00199,HCL Technologies,Frontend Developer Intern,Mumbai,38715.0,On-site,0.6402587885607713,0.8196878142652172
+STU00045,Pari A. Shah,7.52,general,Hyderabad,INT00046,Goldman Sachs,InfoSec Intern,Mumbai,67597.0,Remote,0.6443759993328722,0.8130951089809959
+STU00782,Ira Thakur,9.26,general,Noida,INT00081,Zomato,Mobile App Developer Intern,Gurgaon,45109.0,Remote,0.6699001913609699,0.774303895751492
+STU00620,Kavya Bansal,9.09,rural,Chennai,INT00162,Microsoft,AI Research Intern,Kolkata,145673.0,On-site,0.6134876947751584,0.8588984056641236
+STU00748,Saanvi L. Verma,9.34,rural,Jaipur,INT00146,Cognizant,React Developer Intern,Gurgaon,48092.0,On-site,0.6317586449643856,0.8301124781303482
+STU00090,Myra Chopra,9.33,rural,Delhi,INT00143,ICICI Bank,Product Management Intern,Gurgaon,85633.0,On-site,0.6543291200316218,0.7954625567884679
+STU00070,Anaya U. Tiwari,9.43,female,Pune,INT00062,Paytm,React Developer Intern,Bangalore,44482.0,On-site,0.6388903454521716,0.817693295481732
+STU00889,Sneha Mittal,8.57,general,Hyderabad,INT00057,Freshworks,AI Research Intern,Hyderabad,42547.0,Hybrid,0.6664824684203112,0.7759683771768109
+STU00229,Khushi T. Agarwal,8.92,general,Kolkata,INT00050,Goldman Sachs,Security Analyst Intern,Kolkata,80852.0,On-site,0.6610331721495543,0.7839089939679686
+STU00294,Khushi Joshi,9.51,rural,Noida,INT00034,Flipkart,React Developer Intern,Noida,78353.0,Hybrid,0.6268776167892314,0.8343201452654951
+STU00153,Darsh Mishra,7.19,rural,Kolkata,INT00110,Flipkart,Data Analyst Intern,Kolkata,76808.0,Hybrid,0.6486212285304015,0.8008397872287165
+STU00040,Diya Verma,9.47,rural,Noida,INT00156,TCS,Business Analyst Intern,Chennai,33979.0,On-site,0.6070796145261108,0.8623003837860825
+STU00027,Sara Rajput,9.29,rural,Kolkata,INT00075,HCL Technologies,Frontend Developer Intern,Noida,40202.0,On-site,0.6391326533891453,0.8137380846416352
+STU00342,Kartik X. Saxena,8.4,general,Kolkata,INT00186,Ola,Mobile App Developer Intern,Ahmedabad,54303.0,On-site,0.6553291485314696,0.788662742564907
+STU00036,Keya Yadav,9.59,general,Chennai,INT00162,Microsoft,AI Research Intern,Kolkata,145673.0,On-site,0.6701929226718164,0.765036263840768
+STU00184,Khushi T. Tiwari,8.95,general,Chennai,INT00018,Paytm,Data Analyst Intern,Chennai,35232.0,Hybrid,0.6121679828789737,0.851995042028908
+STU00835,Diya Aggarwal,8.24,reserved,Surat,INT00127,Swiggy,ML Engineer Intern,Pune,65540.0,On-site,0.6265764564646568,0.8284334119301426
+STU00672,Meena Shah,8.99,reserved,Chennai,INT00137,Wipro,Software Engineer Intern,Delhi,25404.0,Hybrid,0.6652157438399922,0.7699031432341951
+STU00463,Diya Iyer,6.41,female,Ahmedabad,INT00008,Cognizant,Full Stack Developer Intern,Chennai,25638.0,On-site,0.6853837720141382,0.7395573114685949
+STU00788,Pari Nair,8.78,female,Ahmedabad,INT00048,Google,Data Science Intern,Ahmedabad,134459.0,On-site,0.6400145899050989,0.8072387400863
+STU00947,Karan Shah,8.08,rural,Mumbai,INT00073,Microsoft,Data Science Intern,Gurgaon,102527.0,On-site,0.6534858547664613,0.7864777950963048
+STU00243,Neha Thakur,9.25,general,Chennai,INT00177,JP Morgan,InfoSec Intern,Chennai,99132.0,On-site,0.623887769090663,0.8306083108538489
+STU00728,Reyansh Iyer,6.93,general,Bangalore,INT00165,Meta,Site Reliability Intern,Gurgaon,113438.0,On-site,0.664393153001032,0.7696735924250933
+STU00353,Ishaan L. Mehta,8.67,reserved,Surat,INT00106,KPMG,Full Stack Developer Intern,Mumbai,77523.0,Remote,0.661540105080679,0.7736622661573326
+STU00586,Tara Mishra,7.21,rural,Chennai,INT00081,Zomato,Mobile App Developer Intern,Gurgaon,45109.0,Remote,0.6767031650253705,0.7501443443716254
+STU00095,Fatima Chopra,8.18,general,Pune,INT00049,McKinsey,Data Science Intern,Bangalore,78465.0,On-site,0.663917709207454,0.7691217658448383
+STU00733,Sai Mittal,8.57,female,Chennai,INT00015,McKinsey,Business Analyst Intern,Surat,80591.0,On-site,0.6156541780921253,0.8413341810158168
+STU00919,Anika M. Tiwari,8.03,female,Ahmedabad,INT00109,JP Morgan,Product Management Intern,Ahmedabad,106801.0,Remote,0.6481013694458979,0.7926099842798714
+STU00136,Vivaan Kapoor,8.44,general,Jaipur,INT00200,Zomato,Deep Learning Intern,Jaipur,43384.0,Remote,0.6576711314793948,0.7780146548754897
+STU00927,Suresh F. Jain,8.5,general,Bangalore,INT00195,Morgan Stanley,InfoSec Intern,Ahmedabad,98931.0,Hybrid,0.6449913178940192,0.7969482249845523
+STU00284,Suresh A. Singh,9.42,rural,Jaipur,INT00132,Netflix,DevOps Engineer Intern,Ahmedabad,133120.0,On-site,0.6383768480912922,0.8040848012359287
+STU00452,Amit Jain,8.67,general,Delhi,INT00129,Accenture,Product Designer Intern,Mumbai,44871.0,Remote,0.6323456423648351,0.8128732986897271
+STU00609,Sai Mittal,9.04,general,Chennai,INT00036,PwC,ML Engineer Intern,Chennai,62304.0,On-site,0.6756655122055499,0.7478624646048737
+STU00579,Sara E. Rajput,9.34,rural,Ahmedabad,INT00132,Netflix,DevOps Engineer Intern,Ahmedabad,133120.0,On-site,0.6235676550503587,0.8260076128284447
+STU00791,Pari R. Aggarwal,9.02,reserved,Chennai,INT00156,TCS,Business Analyst Intern,Chennai,33979.0,On-site,0.6502754070812626,0.785654277086306
+STU00483,Arjun Yadav,8.85,general,Noida,INT00166,Google,Software Engineer Intern,Gurgaon,122179.0,Remote,0.6099770201590361,0.8460074976719179
+STU00942,Nisha Chopra,8.92,rural,Noida,INT00011,Meta,Backend Developer Intern,Pune,92363.0,On-site,0.611236297621705,0.8430797777316049
+STU00519,Atharv D. Mehta,8.16,reserved,Delhi,INT00088,Amazon,ML Engineer Intern,Pune,97486.0,On-site,0.6235952202915254,0.8239977386918492
+STU00393,Lata Yadav,9.39,general,Pune,INT00197,Microsoft,Machine Learning Intern,Pune,116094.0,Remote,0.6643668579828785,0.7610854475147509
+STU00091,Advaith G. Jain,8.38,general,Bangalore,INT00141,Microsoft,Data Analyst Intern,Bangalore,119692.0,On-site,0.6181049501626537,0.8300469533104665
+STU00671,Sai Jindal,8.72,reserved,Surat,INT00141,Microsoft,Data Analyst Intern,Bangalore,119692.0,On-site,0.6286770638643505,0.8140848206261019
+STU00602,Dev Mishra,8.33,female,Delhi,INT00030,Microsoft,ML Engineer Intern,Noida,143654.0,On-site,0.6454077378010658,0.7887833832089652
+STU00540,Vikram P. Patel,8.58,female,Delhi,INT00194,Tech Mahindra,Backend Developer Intern,Mumbai,26888.0,On-site,0.6535943135680364,0.7749287877798658
+STU00851,Sneha M. Sharma,8.73,rural,Ahmedabad,INT00153,PhonePe,Data Analyst Intern,Bangalore,53174.0,Hybrid,0.6399663017085445,0.7953109906708682
+STU00466,Advaith Sharma,8.4,rural,Pune,INT00039,PhonePe,Frontend Developer Intern,Chennai,52977.0,On-site,0.6492026098856905,0.781414279352362
+STU00398,Kartik S. Thakur,9.26,rural,Noida,INT00119,JP Morgan,Full Stack Developer Intern,Noida,110395.0,On-site,0.616432906416656,0.8304498849768992
+STU00394,Aarav Chopra,7.42,reserved,Gurgaon,INT00088,Amazon,ML Engineer Intern,Pune,97486.0,On-site,0.6535292635824186,0.7747718174431224
+STU00249,Reyansh Goyal,8.03,female,Hyderabad,INT00135,TCS,Business Analyst Intern,Bangalore,36659.0,On-site,0.6490378432934217,0.7813130114503108
+STU00576,Kavya Shah,8.68,general,Mumbai,INT00131,PhonePe,React Developer Intern,Chennai,50792.0,Hybrid,0.6190576453711497,0.8254639725395388
+STU00201,Advaith J. Malhotra,8.35,general,Surat,INT00147,TCS,Web Developer Intern,Surat,44561.0,On-site,0.6708837645955352,0.7477107377350561
+STU00221,Sunita Singh,6.13,general,Pune,INT00171,PhonePe,ML Engineer Intern,Bangalore,48284.0,On-site,0.6623747764168254,0.7600448343348223
+STU00429,Rohan A. Shah,8.2,general,Hyderabad,INT00186,Ola,Mobile App Developer Intern,Ahmedabad,54303.0,On-site,0.6242858039213908,0.8161161339593633
+STU00230,Ira Pandey,7.82,general,Jaipur,INT00191,Axis Bank,Backend Developer Intern,Kolkata,116850.0,Remote,0.6263223340759441,0.8123294899994983
+STU00880,Sita Yadav,8.6,general,Jaipur,INT00141,Microsoft,Data Analyst Intern,Bangalore,119692.0,On-site,0.6208600244614705,0.8203906182052914
+STU00092,Pooja Yadav,9.01,general,Jaipur,INT00013,TCS,Full Stack Developer Intern,Kolkata,32004.0,Remote,0.6098623698141254,0.8367178820115037
+STU00319,Ishaan Z. Mishra,9.05,reserved,Surat,INT00060,EY,Full Stack Developer Intern,Hyderabad,58333.0,On-site,0.6198335266764392,0.8212834559572212
+STU00160,Reyansh I. Yadav,7.54,reserved,Gurgaon,INT00022,JP Morgan,InfoSec Intern,Pune,62507.0,Hybrid,0.6422504655043043,0.7876298247914935
+STU00818,Rekha Thakur,7.76,reserved,Ahmedabad,INT00159,Meta,Deep Learning Intern,Delhi,91362.0,On-site,0.687614705862068,0.7192038154607203
+STU00340,Arnav I. Kapoor,8.04,reserved,Jaipur,INT00053,Tech Mahindra,Software Engineer Intern,Bangalore,42405.0,On-site,0.6461634938311116,0.7811192107592492
+STU00061,Arnav Rajput,8.79,general,Gurgaon,INT00151,Accenture,Strategy Intern,Mumbai,88233.0,On-site,0.6166118974699228,0.8254351709431801
+STU00412,Vikram Sharma,8.72,general,Bangalore,INT00185,Tech Mahindra,Full Stack Developer Intern,Gurgaon,35849.0,On-site,0.6560976581465169,0.765550639977234
+STU00965,Ira Mehta,7.61,female,Surat,INT00181,TCS,Backend Developer Intern,Bangalore,37398.0,Remote,0.6900688930029423,0.7144330343389258
+STU00825,Aadhya Gupta,8.78,rural,Jaipur,INT00131,PhonePe,React Developer Intern,Chennai,50792.0,Hybrid,0.6549118383680131,0.767120767984701
+STU00598,Nikhil Aggarwal,7.96,general,Bangalore,INT00140,Freshworks,Android Developer Intern,Surat,53369.0,Remote,0.6532641542462344,0.7691583711716823
+STU00537,Keya Kumar,9.39,reserved,Kolkata,INT00165,Meta,Site Reliability Intern,Gurgaon,113438.0,On-site,0.597169147231886,0.8528904035352761
+STU00630,Dev Kapoor,7.76,general,Pune,INT00025,Paytm,Deep Learning Intern,Pune,68780.0,On-site,0.6390000022485396,0.7893520619619799
+STU00029,Nikhil Joshi,8.42,general,Gurgaon,INT00188,BYJU'S,Android Developer Intern,Kolkata,73648.0,On-site,0.61117378728642,0.8308326326463875
+STU00648,Aditi Goel,8.3,reserved,Pune,INT00107,Axis Bank,ML Engineer Intern,Jaipur,96758.0,On-site,0.6432886980323567,0.7825338679725656
+STU00981,Atharv Bansal,8.73,rural,Mumbai,INT00072,Freshworks,Frontend Developer Intern,Pune,67785.0,On-site,0.6341033924620184,0.7961691862675242
+STU00803,Riya Goyal,9.47,general,Noida,INT00067,TCS,Software Engineer Intern,Delhi,34425.0,On-site,0.6172576837690108,0.8214088571347068
+STU00964,Pooja Agarwal,7.15,rural,Chennai,INT00045,Microsoft,Site Reliability Intern,Pune,91959.0,On-site,0.6521860385091192,0.7687865543601855
+STU00357,Karan G. Sharma,8.18,general,Delhi,INT00082,Amazon,ML Engineer Intern,Surat,141474.0,On-site,0.6182042277629399,0.8195906297442948
+STU00606,Ravi Patel,9.61,general,Hyderabad,INT00012,TCS,Backend Developer Intern,Hyderabad,38824.0,On-site,0.6246611999264124,0.8095114815527248
+STU00946,Krishna Tiwari,9.11,general,Gurgaon,INT00027,Zomato,iOS Developer Intern,Pune,78750.0,Hybrid,0.6096288946033246,0.8305245551124818
+STU00202,Diya Bansal,8.96,general,Kolkata,INT00114,ICICI Bank,InfoSec Intern,Kolkata,81207.0,On-site,0.643047438577081,0.780188263273831
+STU00735,Rohan Malhotra,8.9,rural,Ahmedabad,INT00145,Meta,Cloud Engineer Intern,Ahmedabad,100989.0,On-site,0.6550788922472484,0.7620899260610033
+STU00107,Rita Y. Goyal,9.16,rural,Jaipur,INT00193,Zomato,Android Developer Intern,Jaipur,61684.0,Hybrid,0.6055319844868515,0.8363984536936051
+STU00888,Rohan Mishra,7.86,general,Surat,INT00147,TCS,Web Developer Intern,Surat,44561.0,On-site,0.6465472575934046,0.7746447883258902
+STU00137,Nikhil Yadav,7.81,general,Noida,INT00097,Deloitte,Business Analyst Intern,Hyderabad,74006.0,Remote,0.6294011510218797,0.7984244021442569
+STU00212,Myra P. Yadav,8.48,rural,Ahmedabad,INT00095,Freshworks,Data Analyst Intern,Ahmedabad,42953.0,On-site,0.6154138910489709,0.8191779595013532
+STU00944,Ayaan Singh,8.14,rural,Pune,INT00011,Meta,Backend Developer Intern,Pune,92363.0,On-site,0.6319199782671592,0.7930317520445169
+STU00014,Sita Goel,9.46,general,Pune,INT00200,Zomato,Deep Learning Intern,Jaipur,43384.0,Remote,0.6290078151630969,0.7971577667966724
+STU00422,Nisha Yadav,8.22,general,Kolkata,INT00194,Tech Mahindra,Backend Developer Intern,Mumbai,26888.0,On-site,0.6805837949301545,0.719299943896828
+STU00778,Reyansh Pandey,9.06,general,Bangalore,INT00148,Cognizant,Full Stack Developer Intern,Kolkata,37232.0,On-site,0.6152927425814259,0.8157821169004134
+STU00173,Dev Aggarwal,7.51,reserved,Ahmedabad,INT00041,HCL Technologies,Software Engineer Intern,Surat,44284.0,Remote,0.639891020735294,0.7784111961197294
+STU00887,Khushi Iyer,8.37,general,Kolkata,INT00026,Zomato,Mobile App Developer Intern,Gurgaon,61191.0,Remote,0.6761034956495735,0.724055668447283
+STU00156,Ira Goyal,9.04,general,Noida,INT00164,Cognizant,Software Engineer Intern,Mumbai,49568.0,Remote,0.5978595449337307,0.8410823792982407
+STU00941,Aarav Shah,7.77,general,Hyderabad,INT00087,JP Morgan,Data Analyst Intern,Jaipur,94475.0,On-site,0.6530502959069377,0.7575459710568946
+STU00224,Fatima Singh,7.42,female,Hyderabad,INT00057,Freshworks,AI Research Intern,Hyderabad,42547.0,Hybrid,0.6770053661143076,0.7213689199069709
+STU01000,Myra Thakur,7.45,general,Chennai,INT00182,ICICI Bank,Software Engineer Intern,Pune,108846.0,On-site,0.6424767088474825,0.7729913207566049
+STU00268,Aryan Tiwari,8.3,general,Surat,INT00070,Netflix,AI Research Intern,Chennai,143656.0,Hybrid,0.6282454755889566,0.7940326525236404
+STU00482,Rekha Agarwal,7.99,general,Gurgaon,INT00005,Apple,Software Engineer Intern,Bangalore,145435.0,Remote,0.6186873687511049,0.8081338887778162
+STU00355,Geeta Shah,7.45,general,Delhi,INT00021,Tech Mahindra,Backend Developer Intern,Kolkata,32304.0,On-site,0.6459416716041639,0.7658990288477348
+STU00865,Amit F. Joshi,8.7,rural,Hyderabad,INT00057,Freshworks,AI Research Intern,Hyderabad,42547.0,Hybrid,0.6360673524207198,0.780667114375202
+STU00312,Harsh Z. Aggarwal,8.15,rural,Pune,INT00043,EY,Strategy Intern,Bangalore,57408.0,On-site,0.6450186558802283,0.767081822615472
+STU00220,Arjun V. Sharma,8.3,female,Jaipur,INT00168,Flipkart,Data Analyst Intern,Kolkata,70819.0,On-site,0.6467778435389907,0.762793832007032
+STU00873,Advaith I. Sharma,9.1,female,Chennai,INT00091,Unacademy,React Developer Intern,Ahmedabad,56490.0,On-site,0.6046335202021128,0.8259246893962676
+STU00661,Aahan Thakur,8.67,reserved,Chennai,INT00133,Netflix,ML Engineer Intern,Chennai,115532.0,Remote,0.6066891972955596,0.8221409823537885
+STU00548,Arjun Jain,6.73,general,Ahmedabad,INT00034,Flipkart,React Developer Intern,Noida,78353.0,Hybrid,0.7046244896516052,0.6751941567700703
+STU00935,Daksh F. Shah,8.27,rural,Surat,INT00199,HCL Technologies,Frontend Developer Intern,Mumbai,38715.0,On-site,0.6234479717742418,0.796821990383732
+STU00717,Kavya Shah,8.67,reserved,Hyderabad,INT00040,Accenture,Business Analyst Intern,Delhi,47476.0,On-site,0.6377118100579433,0.7753861273994888
+STU00884,Shaurya Mishra,8.41,general,Jaipur,INT00101,HDFC Bank,Cybersecurity Intern,Delhi,92686.0,On-site,0.6282806183688969,0.7895068155664601
+STU00085,Aryan Kapoor,8.99,general,Bangalore,INT00015,McKinsey,Business Analyst Intern,Surat,80591.0,On-site,0.6066059822764462,0.8217223839136412
+STU00497,Tara M. Tiwari,7.07,general,Gurgaon,INT00115,Ola,Web Developer Intern,Gurgaon,45467.0,Remote,0.6828460605096334,0.7072433937598922
+STU00968,Arjun Mishra,8.79,reserved,Gurgaon,INT00134,Freshworks,Frontend Developer Intern,Gurgaon,60155.0,Remote,0.5992938727279356,0.8324460755968215
+STU00435,Krishna Goyal,6.87,rural,Kolkata,INT00112,Axis Bank,Data Science Intern,Pune,97221.0,On-site,0.6603741207237988,0.7406515634067387
+STU00969,Aarav Q. Pandey,6.88,general,Chennai,INT00138,Tech Mahindra,Business Analyst Intern,Delhi,34042.0,On-site,0.6358467769147953,0.7773402391816231
+STU00654,Shaurya Joshi,6.72,rural,Jaipur,INT00007,HDFC Bank,InfoSec Intern,Ahmedabad,67310.0,On-site,0.6603601626064848,0.7395103452870648
+STU00196,Ravi Chauhan,8.08,general,Hyderabad,INT00038,Goldman Sachs,Strategy Intern,Hyderabad,108685.0,Remote,0.6599355883552657,0.7397580801190208
+STU00813,Rohan Jindal,9.42,rural,Ahmedabad,INT00196,Tech Mahindra,Full Stack Developer Intern,Hyderabad,32253.0,On-site,0.5835261367350415,0.8542220367079798
+STU00896,Geeta E. Goel,9.73,general,Hyderabad,INT00061,TCS,Full Stack Developer Intern,Mumbai,46027.0,Hybrid,0.6164297110129776,0.804195741911536
+STU00498,Kartik Z. Mittal,8.68,rural,Chennai,INT00196,Tech Mahindra,Full Stack Developer Intern,Hyderabad,32253.0,On-site,0.630398688242163,0.7820612578820187
+STU00111,Sneha Rajput,9.26,rural,Chennai,INT00136,PhonePe,iOS Developer Intern,Chennai,58638.0,Hybrid,0.605111795369738,0.8194063397963794
+STU00536,Ananya Patel,7.71,general,Chennai,INT00001,Infosys,Full Stack Developer Intern,Jaipur,25976.0,Hybrid,0.6443690568303988,0.7595813585061428
+STU00293,Ananya Yadav,8.23,female,Noida,INT00139,Accenture,ML Engineer Intern,Noida,61596.0,Remote,0.6176117967887542,0.7995822324378685
+STU00816,Vikram Mehta,7.5,rural,Hyderabad,INT00114,ICICI Bank,InfoSec Intern,Kolkata,81207.0,On-site,0.6266815815072218,0.78571529905194
+STU00621,Rita Jindal,8.86,rural,Hyderabad,INT00038,Goldman Sachs,Strategy Intern,Hyderabad,108685.0,Remote,0.6142703929161619,0.8042515988440935
+STU00915,Sneha Chopra,7.67,general,Hyderabad,INT00128,Axis Bank,Full Stack Developer Intern,Hyderabad,75074.0,On-site,0.6390135722336799,0.7670423480574625
+STU00532,Vikram Saxena,8.77,general,Surat,INT00115,Ola,Web Developer Intern,Gurgaon,45467.0,Remote,0.5969155591808686,0.8292639802225449
+STU00724,Aahan Joshi,8.54,general,Kolkata,INT00001,Infosys,Full Stack Developer Intern,Jaipur,25976.0,Hybrid,0.6013779485078486,0.8221700024870308
+STU00194,Amit Rajput,7.71,general,Kolkata,INT00102,Paytm,Data Science Intern,Kolkata,52332.0,Hybrid,0.6689851730858374,0.7186262788179435
+STU00866,Krishna Goyal,7.71,general,Noida,INT00018,Paytm,Data Analyst Intern,Chennai,35232.0,Hybrid,0.6527903347608353,0.7421753910746849
+STU00544,Shaurya Gupta,7.5,general,Kolkata,INT00159,Meta,Deep Learning Intern,Delhi,91362.0,On-site,0.647799451974452,0.7492515034972693
+STU00868,Ayaan Mishra,9.22,general,Ahmedabad,INT00122,Amazon,Data Analyst Intern,Chennai,108477.0,On-site,0.643640715829634,0.7552610740552312
+STU00704,Pooja H. Aggarwal,9.2,general,Jaipur,INT00160,Deloitte,Software Engineer Intern,Surat,83149.0,On-site,0.5944397013504727,0.8287697548739087
+STU00143,Karan B. Rajput,8.5,general,Hyderabad,INT00185,Tech Mahindra,Full Stack Developer Intern,Gurgaon,35849.0,On-site,0.6119396478171695,0.8022951463140556
+STU00601,Krishna A. Sharma,6.84,general,Jaipur,INT00180,Flipkart,Android Developer Intern,Pune,42269.0,On-site,0.6508054169611261,0.7437870958676693
+STU00657,Darsh O. Yadav,7.18,reserved,Delhi,INT00097,Deloitte,Business Analyst Intern,Hyderabad,74006.0,Remote,0.6342156704974845,0.7684228161277288
+STU00300,Meena Mittal,8.58,female,Pune,INT00026,Zomato,Mobile App Developer Intern,Gurgaon,61191.0,Remote,0.6038618788187115,0.813438664754916
+STU00734,Shaurya K. Bansal,7.52,reserved,Gurgaon,INT00091,Unacademy,React Developer Intern,Ahmedabad,56490.0,On-site,0.6196135440914667,0.7896054332626309
+STU00492,Harsh P. Mehta,7.55,reserved,Ahmedabad,INT00133,Netflix,ML Engineer Intern,Chennai,115532.0,Remote,0.6299924929977476,0.7737655595541126
+STU00108,Sunita I. Chopra,7.69,reserved,Bangalore,INT00163,Netflix,Cloud Engineer Intern,Kolkata,87589.0,Remote,0.6904987109503957,0.6826059620790439
+STU00093,Nisha F. Iyer,8.73,general,Chennai,INT00192,KPMG,Business Analyst Intern,Chennai,57601.0,Hybrid,0.6214182662756,0.785800709696723
+STU00795,Anaya Malhotra,8.84,general,Kolkata,INT00106,KPMG,Full Stack Developer Intern,Mumbai,77523.0,Remote,0.5969810500956461,0.8222095755787404
+STU00183,Aahan Malhotra,8.74,general,Ahmedabad,INT00174,Wipro,Web Developer Intern,Bangalore,27112.0,On-site,0.6077038307119251,0.8049498382891005
+STU00583,Diya Nair,8.27,rural,Jaipur,INT00134,Freshworks,Frontend Developer Intern,Gurgaon,60155.0,Remote,0.6034420610645951,0.8108851602033498
+STU00189,Aditya Agarwal,9.23,general,Ahmedabad,INT00176,Swiggy,ML Engineer Intern,Jaipur,43993.0,Hybrid,0.5950201203364357,0.8233726495206118
+STU00349,Krishna T. Agarwal,8.51,general,Gurgaon,INT00128,Axis Bank,Full Stack Developer Intern,Hyderabad,75074.0,On-site,0.5981874753833799,0.8179780482462649
+STU00571,Shaurya Jindal,8.29,general,Pune,INT00040,Accenture,Business Analyst Intern,Delhi,47476.0,On-site,0.6313682011569447,0.76772865183852
+STU00768,Ira Rajput,8.04,general,Hyderabad,INT00157,ICICI Bank,Strategy Intern,Hyderabad,91248.0,Hybrid,0.6326796275948062,0.7649494752727646
+STU00899,Aarav Mittal,8.7,reserved,Pune,INT00142,PwC,Graphic Designer Intern,Pune,47167.0,On-site,0.6217373054010404,0.7810694607074868
+STU00078,Vivaan Patel,8.98,rural,Hyderabad,INT00105,McKinsey,Graphic Designer Intern,Gurgaon,67298.0,On-site,0.6013812566552728,0.8115924828095402
+STU00206,Amit W. Chopra,8.19,rural,Delhi,INT00097,Deloitte,Business Analyst Intern,Hyderabad,74006.0,Remote,0.6545986779875079,0.7312714963523217
+STU00132,Pooja Patel,8.42,female,Chennai,INT00027,Zomato,iOS Developer Intern,Pune,78750.0,Hybrid,0.6287815175355698,0.7696242353789218
+STU00751,Aahan Nair,8.68,reserved,Hyderabad,INT00132,Netflix,DevOps Engineer Intern,Ahmedabad,133120.0,On-site,0.6209305567361926,0.7811427967401658
+STU00087,Harsh Kumar,7.98,general,Chennai,INT00128,Axis Bank,Full Stack Developer Intern,Hyderabad,75074.0,On-site,0.6113996043401908,0.7949803807433735
+STU00607,Sneha Verma,8.65,general,Delhi,INT00136,PhonePe,iOS Developer Intern,Chennai,58638.0,Hybrid,0.5955107991504583,0.8178205279058892
+STU00759,Krishna Jain,8.15,general,Mumbai,INT00191,Axis Bank,Backend Developer Intern,Kolkata,116850.0,Remote,0.6107171438249186,0.7949154082985393
+STU00504,Rohan Bansal,7.42,reserved,Hyderabad,INT00053,Tech Mahindra,Software Engineer Intern,Bangalore,42405.0,On-site,0.6668717292487415,0.7106680477196231
+STU00557,Pooja D. Patel,8.04,general,Pune,INT00040,Accenture,Business Analyst Intern,Delhi,47476.0,On-site,0.6534096086163659,0.7307820969692623
+STU00163,Pihu Bansal,9.1,general,Pune,INT00183,Goldman Sachs,Cybersecurity Intern,Ahmedabad,107213.0,On-site,0.5983849303927931,0.8131148484175608
+STU00948,Geeta U. Verma,8.52,general,Mumbai,INT00121,Deloitte,UI/UX Designer Intern,Mumbai,83266.0,Hybrid,0.6359311748516544,0.756580208012193
+STU00265,Reyansh X. Singh,7.0,general,Pune,INT00121,Deloitte,UI/UX Designer Intern,Mumbai,83266.0,Hybrid,0.6402073823020601,0.7496475582508452
+STU00983,Aryan Saxena,8.78,general,Kolkata,INT00058,Morgan Stanley,Backend Developer Intern,Pune,98309.0,Hybrid,0.6382520837754468,0.7522915665646313
+STU00553,Aadhya S. Thakur,8.25,female,Pune,INT00185,Tech Mahindra,Full Stack Developer Intern,Gurgaon,35849.0,On-site,0.6314320658564051,0.7623571494372923
+STU00705,Arjun L. Iyer,7.72,general,Jaipur,INT00057,Freshworks,AI Research Intern,Hyderabad,42547.0,Hybrid,0.619530194903483,0.7800425703520083
+STU00772,Karan Kapoor,9.46,general,Mumbai,INT00120,PwC,Product Designer Intern,Mumbai,87700.0,On-site,0.5832706757863997,0.8343886312907995
+STU00054,Ira Thakur,8.79,general,Kolkata,INT00017,JP Morgan,Software Engineer Intern,Chennai,67564.0,Hybrid,0.5954469941612209,0.8156687407422882
+STU00117,Aditi Verma,8.72,general,Delhi,INT00087,JP Morgan,Data Analyst Intern,Jaipur,94475.0,On-site,0.5922154235544435,0.8202187617664705
+STU00568,Sneha O. Gupta,8.8,general,Bangalore,INT00184,Accenture,Product Designer Intern,Delhi,41315.0,Hybrid,0.6180955763674831,0.7809865387249141
+STU00700,Sunita Thakur,8.47,rural,Kolkata,INT00040,Accenture,Business Analyst Intern,Delhi,47476.0,On-site,0.636464733430073,0.7533614018466901
+STU00049,Khushi Aggarwal,7.97,general,Kolkata,INT00040,Accenture,Business Analyst Intern,Delhi,47476.0,On-site,0.6492051629045337,0.732891254987732
+STU00368,Aarav Mehta,8.28,general,Hyderabad,INT00172,Freshworks,AI Research Intern,Surat,79961.0,On-site,0.6247998843995765,0.7691666484978354
+STU00977,Geeta A. Malhotra,8.4,reserved,Mumbai,INT00194,Tech Mahindra,Backend Developer Intern,Mumbai,26888.0,On-site,0.6462390445849366,0.736978214476828
+STU00982,Riya Jain,7.6,rural,Hyderabad,INT00080,HDFC Bank,Business Analyst Intern,Hyderabad,61194.0,Remote,0.6526639156886703,0.726920595597409
+STU00171,Arjun Agarwal,9.59,general,Bangalore,INT00024,Ola,Data Analyst Intern,Jaipur,75338.0,On-site,0.5796658019227188,0.8363854734052164
+STU00097,Shaurya Mishra,8.9,general,Ahmedabad,INT00070,Netflix,AI Research Intern,Chennai,143656.0,Hybrid,0.612714098559401,0.7866762620732679
+STU00406,Keya Goel,8.81,rural,Kolkata,INT00176,Swiggy,ML Engineer Intern,Jaipur,43993.0,Hybrid,0.5904717283979747,0.8193482928607474
+STU00282,Ira Malhotra,8.43,female,Ahmedabad,INT00051,Amazon,Full Stack Developer Intern,Chennai,100232.0,Remote,0.6271369970692005,0.764267844297931
+STU00352,Arjun Rajput,7.75,rural,Jaipur,INT00024,Ola,Data Analyst Intern,Jaipur,75338.0,On-site,0.6215547839149667,0.7720306974389917
+STU00346,Reyansh Patel,8.32,general,Mumbai,INT00114,ICICI Bank,InfoSec Intern,Kolkata,81207.0,On-site,0.5998979686251718,0.8040337299126482
+STU00664,Aahan Goyal,7.38,general,Chennai,INT00007,HDFC Bank,InfoSec Intern,Ahmedabad,67310.0,On-site,0.6534247300080781,0.7227958619201573
+STU00837,Aditya I. Patel,7.72,rural,Jaipur,INT00046,Goldman Sachs,InfoSec Intern,Mumbai,67597.0,Remote,0.6424699074351281,0.7390156804611906
+STU00940,Ayaan E. Bansal,9.22,female,Surat,INT00051,Amazon,Full Stack Developer Intern,Chennai,100232.0,Remote,0.5916327448380695,0.8150286229329456
+STU00693,Riya Kumar,8.9,rural,Delhi,INT00030,Microsoft,ML Engineer Intern,Noida,143654.0,On-site,0.5919290717980323,0.8144885893368163
+STU00554,Kavya Joshi,8.14,general,Mumbai,INT00070,Netflix,AI Research Intern,Chennai,143656.0,Hybrid,0.6500999284915678,0.7267821592773462
+STU00134,Vikram Goel,8.2,general,Mumbai,INT00053,Tech Mahindra,Software Engineer Intern,Bangalore,42405.0,On-site,0.6361733554088167,0.7469670080757244
+STU00321,Pihu Jain,8.33,reserved,Chennai,INT00096,Wipro,Software Engineer Intern,Pune,39744.0,Hybrid,0.5982924990538733,0.8037131583254208
+STU00148,Rita Goel,8.93,reserved,Pune,INT00028,McKinsey,Graphic Designer Intern,Chennai,57996.0,Hybrid,0.6490262067507224,0.7266425201631967
+STU00543,Kartik Jain,6.82,general,Mumbai,INT00033,KPMG,Strategy Intern,Noida,77924.0,On-site,0.6477613767778804,0.7283524855235631
+STU00420,Rahul T. Agarwal,7.81,reserved,Jaipur,INT00170,Axis Bank,Product Management Intern,Kolkata,64904.0,On-site,0.610837815024534,0.783631427740944
+STU00975,Aadhya J. Verma,6.9,reserved,Mumbai,INT00085,HCL Technologies,Frontend Developer Intern,Bangalore,25622.0,On-site,0.6292679119761511,0.7556612582366276
+STU00261,Krishna Agarwal,7.86,female,Hyderabad,INT00156,TCS,Business Analyst Intern,Chennai,33979.0,On-site,0.6762264744228504,0.6846951487077076
+STU00743,Harsh S. Jindal,7.78,general,Surat,INT00137,Wipro,Software Engineer Intern,Delhi,25404.0,Hybrid,0.6291628687249233,0.755284468935822
+STU00736,Anika Chauhan,8.87,general,Hyderabad,INT00142,PwC,Graphic Designer Intern,Pune,47167.0,On-site,0.6260396063043836,0.7596740484457789
+STU00762,Aryan Shah,8.93,reserved,Jaipur,INT00001,Infosys,Full Stack Developer Intern,Jaipur,25976.0,Hybrid,0.5981855364270666,0.8013463787807432
+STU00071,Myra Y. Sharma,9.33,reserved,Chennai,INT00177,JP Morgan,InfoSec Intern,Chennai,99132.0,On-site,0.585567446004835,0.8202660773453027
+STU00323,Rekha Bansal,9.33,general,Chennai,INT00028,McKinsey,Graphic Designer Intern,Chennai,57996.0,Hybrid,0.5894063249409438,0.8133373559784907
+STU00776,Krishna G. Aggarwal,9.22,general,Mumbai,INT00130,HCL Technologies,Software Engineer Intern,Mumbai,25216.0,On-site,0.5745816531320407,0.835517236624811
+STU00296,Anika Chopra,6.26,female,Ahmedabad,INT00041,HCL Technologies,Software Engineer Intern,Surat,44284.0,Remote,0.6725177520217365,0.6884422264890735
+STU00506,Sita Nair,7.56,reserved,Hyderabad,INT00010,PwC,Business Analyst Intern,Hyderabad,44652.0,On-site,0.6449262071831582,0.7297965209691742
+STU00034,Pihu Saxena,8.22,reserved,Bangalore,INT00154,ICICI Bank,Cybersecurity Intern,Ahmedabad,105528.0,On-site,0.594576757235522,0.8046960876785115
+STU00831,Rohan R. Joshi,8.83,general,Ahmedabad,INT00090,Amazon,Backend Developer Intern,Ahmedabad,137637.0,On-site,0.5857318814110677,0.8176512872707058
+STU00227,Shaurya Agarwal,7.72,reserved,Bangalore,INT00189,KPMG,ML Engineer Intern,Bangalore,47882.0,On-site,0.605850198946827,0.7872261664832051
+STU00167,Aditya Shah,7.58,general,Hyderabad,INT00113,McKinsey,Product Designer Intern,Noida,88274.0,On-site,0.6126094054436948,0.7770638895256344
+STU00943,Vikram Mehta,6.81,general,Ahmedabad,INT00183,Goldman Sachs,Cybersecurity Intern,Ahmedabad,107213.0,On-site,0.6418660349714025,0.7329931086022745
+STU00885,Ravi Rajput,8.55,general,Jaipur,INT00001,Infosys,Full Stack Developer Intern,Jaipur,25976.0,Hybrid,0.6208276404191266,0.7643615534191763
+STU00098,Riya G. Mishra,9.17,general,Jaipur,INT00105,McKinsey,Graphic Designer Intern,Gurgaon,67298.0,On-site,0.60925185376814,0.7816522872605872
+STU00248,Myra Aggarwal,9.45,general,Pune,INT00008,Cognizant,Full Stack Developer Intern,Chennai,25638.0,On-site,0.5808780895858404,0.8241417692203163
+STU00450,Riya Z. Patel,6.91,rural,Pune,INT00089,KPMG,Data Science Intern,Chennai,53072.0,On-site,0.6806817270246728,0.6734949881535204
+STU00893,Aryan Joshi,8.91,general,Noida,INT00073,Microsoft,Data Science Intern,Gurgaon,102527.0,On-site,0.6009022348834416,0.7930499393867763
+STU00612,Ajay N. Gupta,7.74,general,Surat,INT00103,Flipkart,Data Analyst Intern,Bangalore,57222.0,On-site,0.6172385245818114,0.7684361887220866
+STU00619,Khushi Chopra,7.55,rural,Chennai,INT00131,PhonePe,React Developer Intern,Chennai,50792.0,Hybrid,0.6147122734518882,0.7713985526734944
+STU00476,Karan Malhotra,8.77,general,Jaipur,INT00030,Microsoft,ML Engineer Intern,Noida,143654.0,On-site,0.5907366195938547,0.8073601637501832
+STU00396,Daksh Singh,8.89,rural,Kolkata,INT00033,KPMG,Strategy Intern,Noida,77924.0,On-site,0.6078043532496296,0.7817490011280355
+STU00447,Kartik Iyer,8.44,general,Bangalore,INT00027,Zomato,iOS Developer Intern,Pune,78750.0,Hybrid,0.6388654832331233,0.7350178843914804
+STU00407,Aditya P. Joshi,9.31,general,Pune,INT00045,Microsoft,Site Reliability Intern,Pune,91959.0,On-site,0.5793028637725338,0.82376703427283
+STU00120,Anaya Malhotra,8.09,reserved,Mumbai,INT00172,Freshworks,AI Research Intern,Surat,79961.0,On-site,0.6137205286386114,0.7717472837594543
+STU00128,Dev V. Chopra,8.56,general,Bangalore,INT00036,PwC,ML Engineer Intern,Chennai,62304.0,On-site,0.5879403296880504,0.8100132096452481
+STU00073,Aditya Aggarwal,8.64,rural,Bangalore,INT00130,HCL Technologies,Software Engineer Intern,Mumbai,25216.0,On-site,0.6114805342653389,0.7739505801774618
+STU00841,Fatima Jindal,6.44,female,Noida,INT00023,McKinsey,Product Management Intern,Noida,63869.0,Remote,0.6374029368301676,0.7349321029635557
+STU00624,Rahul L. Goel,8.71,rural,Noida,INT00155,EY,Software Engineer Intern,Ahmedabad,75868.0,On-site,0.5908696730509277,0.8029859855893804
+STU00116,Aryan Bansal,7.31,reserved,Hyderabad,INT00195,Morgan Stanley,InfoSec Intern,Ahmedabad,98931.0,Hybrid,0.6331850220470512,0.7390895095882091
+STU00359,Rahul Goyal,9.33,general,Pune,INT00061,TCS,Full Stack Developer Intern,Mumbai,46027.0,Hybrid,0.601198770397913,0.7868867975183284
+STU00993,Pihu Tiwari,8.99,female,Delhi,INT00171,PhonePe,ML Engineer Intern,Bangalore,48284.0,On-site,0.5846990044904953,0.8110958847384189
+STU00351,Rekha Kumar,6.6,rural,Pune,INT00182,ICICI Bank,Software Engineer Intern,Pune,108846.0,On-site,0.6323901037959375,0.7395339434876982
+STU00855,Anaya J. Joshi,6.31,reserved,Gurgaon,INT00180,Flipkart,Android Developer Intern,Pune,42269.0,On-site,0.6835309215238723,0.6621828708020546
+STU00921,Karan Chauhan,8.8,general,Chennai,INT00056,Accenture,Software Engineer Intern,Pune,60246.0,On-site,0.580506247351283,0.8159454539237432
+STU00378,Aditi Shah,9.05,general,Jaipur,INT00179,Microsoft,Site Reliability Intern,Jaipur,110490.0,On-site,0.5779559665945677,0.8196406702033692
+STU00714,Vihaan Agarwal,8.59,reserved,Gurgaon,INT00109,JP Morgan,Product Management Intern,Ahmedabad,106801.0,Remote,0.5977722423162963,0.7889328840380012
+STU00339,Aditi Chauhan,9.18,reserved,Bangalore,INT00037,Swiggy,Machine Learning Intern,Pune,50945.0,Hybrid,0.5836466872360324,0.8096738391821596
+STU00274,Rita Q. Agarwal,9.4,rural,Delhi,INT00076,Freshworks,Android Developer Intern,Mumbai,55342.0,On-site,0.588771684699534,0.801634210400525
+STU00538,Geeta Bansal,8.33,general,Surat,INT00015,McKinsey,Business Analyst Intern,Surat,80591.0,On-site,0.6190140262754177,0.7556998028148447
+STU00585,Aahan Mehta,7.39,reserved,Jaipur,INT00052,Goldman Sachs,Security Analyst Intern,Noida,108940.0,On-site,0.6750082030676372,0.6716814280883548
+STU00604,Rekha Iyer,9.24,general,Gurgaon,INT00105,McKinsey,Graphic Designer Intern,Gurgaon,67298.0,On-site,0.5746937546990667,0.8214385610939091
+STU00364,Darsh Saxena,8.74,reserved,Bangalore,INT00138,Tech Mahindra,Business Analyst Intern,Delhi,34042.0,On-site,0.5839371432504998,0.8073709338885879
+STU00032,Kavya Agarwal,7.82,female,Jaipur,INT00098,Ola,React Developer Intern,Surat,40323.0,On-site,0.6014795344002802,0.7809688216011507
+STU00066,Nisha Q. Mishra,8.81,general,Chennai,INT00181,TCS,Backend Developer Intern,Bangalore,37398.0,Remote,0.6243628308477502,0.746280904852633
+STU00856,Meena Nair,7.95,general,Chennai,INT00186,Ola,Mobile App Developer Intern,Ahmedabad,54303.0,On-site,0.6096902703667539,0.7682436949321335
+STU00484,Rohan Joshi,9.0,female,Surat,INT00112,Axis Bank,Data Science Intern,Pune,97221.0,On-site,0.5949395633250899,0.7901747517994759
+STU00617,Ishaan Kapoor,9.07,general,Kolkata,INT00021,Tech Mahindra,Backend Developer Intern,Kolkata,32304.0,On-site,0.6286852433386024,0.7393640271119818
+STU00591,Keya Sharma,7.59,rural,Kolkata,INT00102,Paytm,Data Science Intern,Kolkata,52332.0,Hybrid,0.6075260338932194,0.7706179685824491
+STU00842,Aarav Sharma,7.46,general,Delhi,INT00194,Tech Mahindra,Backend Developer Intern,Mumbai,26888.0,On-site,0.6052624949388186,0.7739930945736087
+STU00523,Aditi I. Thakur,8.96,general,Gurgaon,INT00006,BYJU'S,Deep Learning Intern,Noida,42185.0,Hybrid,0.5816655462827008,0.8093802155473914
+STU00360,Anaya Rajput,7.52,general,Noida,INT00052,Goldman Sachs,Security Analyst Intern,Noida,108940.0,On-site,0.6483455190272236,0.709333721460103
+STU00165,Aarav Nair,8.3,female,Jaipur,INT00002,Axis Bank,ML Engineer Intern,Kolkata,74110.0,On-site,0.5885449290872782,0.798809810667584
+STU00075,Suresh Goel,9.14,general,Pune,INT00091,Unacademy,React Developer Intern,Ahmedabad,56490.0,On-site,0.6029158114945803,0.7769527947970096
+STU00895,Rahul Pandey,8.97,reserved,Noida,INT00033,KPMG,Strategy Intern,Noida,77924.0,On-site,0.6200858988800941,0.7511201367793093
+STU00299,Aahan Tiwari,8.98,general,Bangalore,INT00043,EY,Strategy Intern,Bangalore,57408.0,On-site,0.5873436174216603,0.7994797709486552
+STU00214,Aarav Mishra,8.82,general,Pune,INT00009,Netflix,Deep Learning Intern,Gurgaon,107760.0,On-site,0.5900469456711731,0.7952359298255451
+STU00882,Priya Goyal,8.7,general,Gurgaon,INT00165,Meta,Site Reliability Intern,Gurgaon,113438.0,On-site,0.6568767069259949,0.6949320519947869
+STU00957,Atharv Chauhan,7.03,reserved,Ahmedabad,INT00118,EY,Data Analyst Intern,Hyderabad,65948.0,Remote,0.6279625279000992,0.7379007140342134
+STU00139,Aadhya Mishra,8.27,general,Kolkata,INT00077,Netflix,ML Engineer Intern,Pune,88109.0,On-site,0.5983640684765642,0.782133654269078
+STU00634,Lata Kumar,8.8,general,Pune,INT00100,Goldman Sachs,ML Engineer Intern,Hyderabad,90570.0,Remote,0.6039720382558527,0.7727186884160364
+STU00155,Ajay Iyer,7.83,general,Pune,INT00013,TCS,Full Stack Developer Intern,Kolkata,32004.0,Remote,0.6303340838804772,0.7329340818525979
+STU00023,Vihaan H. Chauhan,7.83,general,Delhi,INT00114,ICICI Bank,InfoSec Intern,Kolkata,81207.0,On-site,0.6133195309384812,0.7583174906221796
+STU00857,Shaurya I. Chopra,7.92,general,Bangalore,INT00070,Netflix,AI Research Intern,Chennai,143656.0,Hybrid,0.6003011421816551,0.777502253487541
+STU00741,Reyansh Agarwal,6.54,general,Kolkata,INT00198,Ola,Deep Learning Intern,Chennai,53119.0,Hybrid,0.6559414997888146,0.6938274948326795
+STU00500,Anika Z. Patel,8.48,rural,Kolkata,INT00193,Zomato,Android Developer Intern,Jaipur,61684.0,Hybrid,0.6217384213507471,0.7447046457723908
+STU00854,Ananya Agarwal,7.8,general,Delhi,INT00067,TCS,Software Engineer Intern,Delhi,34425.0,On-site,0.6251023067555836,0.7394614805869151
+STU00917,Lata Verma,7.27,general,Noida,INT00075,HCL Technologies,Frontend Developer Intern,Noida,40202.0,On-site,0.6233573270789132,0.7419805620831603
+STU00416,Aadhya Thakur,8.55,rural,Delhi,INT00090,Amazon,Backend Developer Intern,Ahmedabad,137637.0,On-site,0.5838472909137645,0.8000907039192817
+STU00886,Pooja U. Tiwari,6.35,general,Delhi,INT00022,JP Morgan,InfoSec Intern,Pune,62507.0,Hybrid,0.6661595975259016,0.6764687762447098
+STU00819,Vivaan Jindal,7.91,general,Jaipur,INT00126,HDFC Bank,Software Engineer Intern,Ahmedabad,72453.0,On-site,0.5921083324712498,0.7871652529557944
+STU00628,Priya Tiwari,8.45,reserved,Surat,INT00152,PwC,Business Analyst Intern,Chennai,43890.0,Remote,0.6047380345786131,0.7676601917662011
+STU00226,Anika Agarwal,7.78,general,Bangalore,INT00028,McKinsey,Graphic Designer Intern,Chennai,57996.0,Hybrid,0.6119812643523738,0.7563645541820977
+STU00861,Priya D. Bansal,7.17,general,Pune,INT00104,Amazon,AI Research Intern,Gurgaon,121750.0,Remote,0.6109744452927914,0.7570652155134833
+STU00244,Ravi Yadav,6.73,general,Bangalore,INT00052,Goldman Sachs,Security Analyst Intern,Noida,108940.0,On-site,0.6321781798405036,0.7247531297134893
+STU00177,Vivaan Gupta,8.18,rural,Pune,INT00197,Microsoft,Machine Learning Intern,Pune,116094.0,Remote,0.6621462611086184,0.6793059937624694
+STU00646,Riya A. Aggarwal,8.25,general,Gurgaon,INT00085,HCL Technologies,Frontend Developer Intern,Bangalore,25622.0,On-site,0.6201753985103675,0.7420629683790502
+STU00901,Fatima R. Gupta,8.21,general,Pune,INT00072,Freshworks,Frontend Developer Intern,Pune,67785.0,On-site,0.6042386544417517,0.7650306552315829
+STU00303,Vivaan T. Saxena,8.53,general,Bangalore,INT00135,TCS,Business Analyst Intern,Bangalore,36659.0,On-site,0.6229579627805437,0.7367349594029442
+STU00696,Sara Iyer,8.1,general,Mumbai,INT00139,Accenture,ML Engineer Intern,Noida,61596.0,Remote,0.5930391230635038,0.7811484890639845
+STU00962,Myra Pandey,7.33,female,Pune,INT00140,Freshworks,Android Developer Intern,Surat,53369.0,Remote,0.6030278897513576,0.765439343324339
+STU00205,Lata Nair,8.34,reserved,Chennai,INT00144,KPMG,Product Management Intern,Ahmedabad,53557.0,On-site,0.5906776535341611,0.7837678756807529
+STU00960,Lata J. Saxena,8.92,general,Gurgaon,INT00181,TCS,Backend Developer Intern,Bangalore,37398.0,Remote,0.5987406673115718,0.771516795895375
+STU00298,Reyansh S. Goyal,6.97,reserved,Pune,INT00197,Microsoft,Machine Learning Intern,Pune,116094.0,Remote,0.6487514001636816,0.696474534599881
+STU00757,Kartik W. Aggarwal,7.84,general,Pune,INT00146,Cognizant,React Developer Intern,Gurgaon,48092.0,On-site,0.6062369109806921,0.7595533728917743
+STU00200,Dev Jain,7.91,female,Ahmedabad,INT00027,Zomato,iOS Developer Intern,Pune,78750.0,Hybrid,0.6049687788428997,0.7612821919804673
+STU00123,Nikhil Shah,8.72,general,Kolkata,INT00108,Goldman Sachs,Strategy Intern,Gurgaon,110539.0,On-site,0.6005281983048888,0.7678650319117871
+STU00973,Aditi Pandey,6.92,reserved,Jaipur,INT00144,KPMG,Product Management Intern,Ahmedabad,53557.0,On-site,0.6159654388388666,0.744452227709913
+STU00770,Priya Bansal,6.8,reserved,Jaipur,INT00178,JP Morgan,Data Science Intern,Bangalore,97728.0,Remote,0.6274914158775111,0.7267703386755461
+STU00626,Ayaan Thakur,8.61,general,Delhi,INT00049,McKinsey,Data Science Intern,Bangalore,78465.0,On-site,0.6202211778512996,0.7367380742412093
+STU00096,Kavya Pandey,8.3,rural,Kolkata,INT00147,TCS,Web Developer Intern,Surat,44561.0,On-site,0.589067751037636,0.7831191516037957
+STU00366,Rohan Jain,8.54,general,Jaipur,INT00130,HCL Technologies,Software Engineer Intern,Mumbai,25216.0,On-site,0.6516429533300884,0.6888840340903463
+STU00135,Tara E. Goyal,7.11,general,Pune,INT00025,Paytm,Deep Learning Intern,Pune,68780.0,On-site,0.6186450841409508,0.738312353863218
+STU00329,Vihaan Chauhan,7.47,general,Bangalore,INT00028,McKinsey,Graphic Designer Intern,Chennai,57996.0,Hybrid,0.6067868290856835,0.7554317773345263
+STU00057,Saanvi Kapoor,8.59,reserved,Kolkata,INT00057,Freshworks,AI Research Intern,Hyderabad,42547.0,Hybrid,0.5851002452421256,0.7877131552045453
+STU00663,Aarav Malhotra,7.28,rural,Jaipur,INT00188,BYJU'S,Android Developer Intern,Kolkata,73648.0,On-site,0.6122645358209046,0.7465159261057048
+STU00314,Ishaan Bansal,8.79,general,Pune,INT00181,TCS,Backend Developer Intern,Bangalore,37398.0,Remote,0.5732015291041488,0.8051006395560051
+STU00041,Aahan S. Joshi,7.73,general,Chennai,INT00197,Microsoft,Machine Learning Intern,Pune,116094.0,Remote,0.6171054306290833,0.7391752274110581
+STU00470,Vivaan Rajput,7.71,rural,Noida,INT00172,Freshworks,AI Research Intern,Surat,79961.0,On-site,0.6099934293270164,0.7498239721084702
+STU00110,Vivaan Yadav,8.82,general,Surat,INT00080,HDFC Bank,Business Analyst Intern,Hyderabad,61194.0,Remote,0.5746641387065025,0.8024305777487771
+STU00570,Rohan Tiwari,8.93,rural,Surat,INT00144,KPMG,Product Management Intern,Ahmedabad,53557.0,On-site,0.5894443720143842,0.779910780217004
+STU00744,Amit Malhotra,8.13,reserved,Kolkata,INT00105,McKinsey,Graphic Designer Intern,Gurgaon,67298.0,On-site,0.6540925625121415,0.6824353085237245
+STU00053,Arjun Mishra,8.43,female,Jaipur,INT00097,Deloitte,Business Analyst Intern,Hyderabad,74006.0,Remote,0.5774653886368265,0.7973313169094547
+STU00373,Ravi I. Bansal,7.91,general,Ahmedabad,INT00082,Amazon,ML Engineer Intern,Surat,141474.0,On-site,0.6210172894069971,0.7308315364743482
+STU00777,Ajay Malhotra,7.5,general,Delhi,INT00125,Axis Bank,InfoSec Intern,Gurgaon,89477.0,Hybrid,0.5991516684871105,0.7627914143292663
+STU00288,Diya O. Yadav,7.03,rural,Delhi,INT00020,TCS,Full Stack Developer Intern,Kolkata,25812.0,On-site,0.6407230575781883,0.6997426046348331
+STU00302,Vihaan Goyal,8.62,rural,Jaipur,INT00099,Axis Bank,Backend Developer Intern,Ahmedabad,64782.0,Hybrid,0.5859733723729815,0.7817738813791352
+STU00613,Shaurya Mittal,7.65,general,Delhi,INT00172,Freshworks,AI Research Intern,Surat,79961.0,On-site,0.5951106633103604,0.7673874502512135
+STU00485,Rohan M. Tiwari,8.96,rural,Hyderabad,INT00181,TCS,Backend Developer Intern,Bangalore,37398.0,Remote,0.6031539796085472,0.7542924559302142
+STU00151,Reyansh Nair,8.05,reserved,Delhi,INT00125,Axis Bank,InfoSec Intern,Gurgaon,89477.0,Hybrid,0.6193941151148046,0.7295254307616044
+STU00958,Rahul Tiwari,6.56,general,Noida,INT00022,JP Morgan,InfoSec Intern,Pune,62507.0,Hybrid,0.6219057609087228,0.725655863881184
+STU00382,Neha B. Jindal,8.43,rural,Bangalore,INT00099,Axis Bank,Backend Developer Intern,Ahmedabad,64782.0,Hybrid,0.6107271721727408,0.7415032299847493
+STU00264,Anika Saxena,7.82,reserved,Surat,INT00018,Paytm,Data Analyst Intern,Chennai,35232.0,Hybrid,0.6116567571263,0.7398234823059806
+STU00219,Aarav S. Chopra,7.2,rural,Chennai,INT00029,Netflix,Software Engineer Intern,Mumbai,123369.0,On-site,0.5997038411555292,0.7571756092043356
+STU00875,Geeta J. Jain,8.12,rural,Hyderabad,INT00120,PwC,Product Designer Intern,Mumbai,87700.0,On-site,0.6168163771356069,0.7313355315657406
+STU00469,Shaurya V. Shah,8.5,reserved,Kolkata,INT00027,Zomato,iOS Developer Intern,Pune,78750.0,Hybrid,0.6465053395094524,0.6867200107001545
+STU00642,Ajay Iyer,7.66,rural,Surat,INT00043,EY,Strategy Intern,Bangalore,57408.0,On-site,0.6532586365434276,0.6758546897154898
+STU00238,Keya Kapoor,8.88,rural,Noida,INT00088,Amazon,ML Engineer Intern,Pune,97486.0,On-site,0.5664307913618408,0.8060384702460925
+STU00304,Geeta Gupta,7.16,general,Noida,INT00032,Goldman Sachs,Security Analyst Intern,Mumbai,109429.0,On-site,0.6737032899284194,0.6448513607508954
+STU00909,Vivaan Chauhan,7.75,general,Gurgaon,INT00078,Cognizant,Software Engineer Intern,Mumbai,38394.0,On-site,0.614058222653173,0.7340899603083019
+STU00846,Suresh Goyal,7.69,rural,Hyderabad,INT00076,Freshworks,Android Developer Intern,Mumbai,55342.0,On-site,0.6021006233308288,0.7517231101881765
+STU00725,Pooja Chauhan,7.75,rural,Ahmedabad,INT00200,Zomato,Deep Learning Intern,Jaipur,43384.0,Remote,0.5977340976659156,0.7571136107108347
+STU00362,Rita Pandey,6.82,rural,Surat,INT00028,McKinsey,Graphic Designer Intern,Chennai,57996.0,Hybrid,0.6191258775463501,0.7243937485331113
+STU00839,Vivaan Gupta,7.18,general,Delhi,INT00138,Tech Mahindra,Business Analyst Intern,Delhi,34042.0,On-site,0.632672460798004,0.704000532130773
+STU00863,Lata Chauhan,8.6,female,Mumbai,INT00189,KPMG,ML Engineer Intern,Bangalore,47882.0,On-site,0.6149002432304531,0.7302985799142288
+STU00459,Meena Jain,6.94,general,Chennai,INT00086,PhonePe,Android Developer Intern,Gurgaon,76415.0,On-site,0.6162781985561205,0.7279194857213951
+STU00689,Aadhya Shah,9.24,rural,Noida,INT00094,Infosys,Full Stack Developer Intern,Delhi,31559.0,On-site,0.5974157115232042,0.756130685781479
+STU00517,Saanvi Aggarwal,8.1,general,Jaipur,INT00047,Apple,Full Stack Developer Intern,Surat,143532.0,On-site,0.6135438981274801,0.7315366664599416
+STU00371,Arjun Goel,7.56,female,Delhi,INT00191,Axis Bank,Backend Developer Intern,Kolkata,116850.0,Remote,0.6080835383434802,0.7394203167937361
+STU00030,Aarav O. Kumar,7.81,general,Noida,INT00140,Freshworks,Android Developer Intern,Surat,53369.0,Remote,0.6169932776177186,0.7257623493031132
+STU00218,Sai B. Kumar,7.82,general,Pune,INT00127,Swiggy,ML Engineer Intern,Pune,65540.0,On-site,0.61387280396425,0.7303767192640644
+STU00089,Dev D. Bansal,7.36,general,Gurgaon,INT00125,Axis Bank,InfoSec Intern,Gurgaon,89477.0,Hybrid,0.6576598732485602,0.6635430351545851
+STU00821,Nisha Mishra,8.24,general,Pune,INT00128,Axis Bank,Full Stack Developer Intern,Hyderabad,75074.0,On-site,0.599138947171739,0.7506937901980193
+STU00555,Daksh Q. Yadav,6.98,rural,Bangalore,INT00052,Goldman Sachs,Security Analyst Intern,Noida,108940.0,On-site,0.5998681637710113,0.7485924963272962
+STU00169,Aditi Chopra,8.32,general,Delhi,INT00132,Netflix,DevOps Engineer Intern,Ahmedabad,133120.0,On-site,0.5973514248685652,0.7514682262169039
+STU00526,Suresh Y. Sharma,8.6,rural,Pune,INT00053,Tech Mahindra,Software Engineer Intern,Bangalore,42405.0,On-site,0.5676535789765857,0.7958686594413008
+STU00044,Advaith Mittal,6.46,rural,Noida,INT00022,JP Morgan,InfoSec Intern,Pune,62507.0,Hybrid,0.6367495903530209,0.6916392561458491
+STU00510,Ira Joshi,8.45,female,Noida,INT00191,Axis Bank,Backend Developer Intern,Kolkata,116850.0,Remote,0.604252027374881,0.7401171855031654
+STU00787,Nisha Mittal,6.93,general,Chennai,INT00081,Zomato,Mobile App Developer Intern,Gurgaon,45109.0,Remote,0.6420755531846435,0.6833765972672254
+STU00690,Ajay A. Goel,8.89,general,Kolkata,INT00147,TCS,Web Developer Intern,Surat,44561.0,On-site,0.5669107327231747,0.7946766906943755
+STU00133,Anika B. Singh,7.49,reserved,Jaipur,INT00173,Netflix,Backend Developer Intern,Bangalore,112748.0,Remote,0.5976562734239006,0.7481593054115586
+STU00766,Saanvi B. Bansal,7.88,general,Gurgaon,INT00007,HDFC Bank,InfoSec Intern,Ahmedabad,67310.0,On-site,0.6242616893561951,0.7079016664576762
+STU00472,Keya Goel,8.29,rural,Mumbai,INT00070,Netflix,AI Research Intern,Chennai,143656.0,Hybrid,0.5725086685624041,0.7854811136807042
+STU00529,Anika E. Agarwal,8.89,general,Gurgaon,INT00134,Freshworks,Frontend Developer Intern,Gurgaon,60155.0,Remote,0.5721862286640987,0.7857655665148875
+STU00752,Lata Y. Rajput,9.05,general,Mumbai,INT00196,Tech Mahindra,Full Stack Developer Intern,Hyderabad,32253.0,On-site,0.6239874979469971,0.7073451238005577
+STU00175,Anaya N. Patel,7.94,general,Hyderabad,INT00158,Google,Cloud Engineer Intern,Kolkata,121071.0,Remote,0.5972218804169858,0.747404040064418
+STU00018,Vikram X. Thakur,8.2,general,Pune,INT00183,Goldman Sachs,Cybersecurity Intern,Ahmedabad,107213.0,On-site,0.6338829587312274,0.6922503792633902
+STU00775,Sara Rajput,7.17,general,Hyderabad,INT00110,Flipkart,Data Analyst Intern,Kolkata,76808.0,Hybrid,0.6513904054697757,0.6657212234509442
+STU00592,Advaith Iyer,8.85,rural,Kolkata,INT00066,PwC,ML Engineer Intern,Delhi,50003.0,On-site,0.5619912641428557,0.7993951428783067
+STU00564,Suresh P. Goyal,8.62,general,Surat,INT00076,Freshworks,Android Developer Intern,Mumbai,55342.0,On-site,0.595428898388483,0.7491530449779757
+STU00292,Meena E. Patel,8.2,general,Hyderabad,INT00085,HCL Technologies,Frontend Developer Intern,Bangalore,25622.0,On-site,0.6231074299065691,0.7073718991945398
+STU00281,Neha P. Aggarwal,8.02,rural,Bangalore,INT00145,Meta,Cloud Engineer Intern,Ahmedabad,100989.0,On-site,0.6114407076403051,0.7247040273396095
+STU00932,Anika V. Thakur,8.89,general,Pune,INT00187,Tech Mahindra,Software Engineer Intern,Ahmedabad,37157.0,Remote,0.5896965061915967,0.7571823056788205
+STU00454,Rohan Singh,8.12,general,Jaipur,INT00200,Zomato,Deep Learning Intern,Jaipur,43384.0,Remote,0.5929789923085343,0.7521398369289432
+STU00542,Myra R. Shah,8.13,general,Gurgaon,INT00014,EY,Backend Developer Intern,Surat,89019.0,On-site,0.6298695604118559,0.6967323436228868
+STU00322,Priya Goel,8.9,rural,Surat,INT00008,Cognizant,Full Stack Developer Intern,Chennai,25638.0,On-site,0.5654714916886652,0.793324959860773
+STU00545,Aarav Sharma,7.19,female,Jaipur,INT00174,Wipro,Web Developer Intern,Bangalore,27112.0,On-site,0.6611590108346022,0.6488893297663567
+STU00009,Sai N. Gupta,8.11,general,Gurgaon,INT00115,Ola,Web Developer Intern,Gurgaon,45467.0,Remote,0.6027044610243547,0.7362227305187257
+STU00998,Dev Gupta,6.13,reserved,Delhi,INT00101,HDFC Bank,Cybersecurity Intern,Delhi,92686.0,On-site,0.6340376407865713,0.68901360254913
+STU00367,Shaurya Jindal,8.1,general,Kolkata,INT00070,Netflix,AI Research Intern,Chennai,143656.0,Hybrid,0.5904352222756741,0.753807547117693
+STU00659,Aryan Pandey,8.03,rural,Jaipur,INT00200,Zomato,Deep Learning Intern,Jaipur,43384.0,Remote,0.6242991287796082,0.7019002398052986
+STU00991,Sneha A. Mishra,8.12,general,Chennai,INT00103,Flipkart,Data Analyst Intern,Bangalore,57222.0,On-site,0.5757418873447575,0.7741392733497791
+STU00600,Kartik G. Aggarwal,7.71,general,Kolkata,INT00043,EY,Strategy Intern,Bangalore,57408.0,On-site,0.6273094157403163,0.6967232735019995
+STU00645,Arnav Kapoor,7.37,general,Delhi,INT00021,Tech Mahindra,Backend Developer Intern,Kolkata,32304.0,On-site,0.5894365385637751,0.7525936247250603
+STU00430,Reyansh Goel,7.49,rural,Surat,INT00009,Netflix,Deep Learning Intern,Gurgaon,107760.0,On-site,0.6284768084831376,0.6937406425979767
+STU00953,Rahul S. Mehta,8.35,rural,Chennai,INT00039,PhonePe,Frontend Developer Intern,Chennai,52977.0,On-site,0.6300489425071684,0.6912257782612592
+STU00499,Atharv B. Agarwal,7.93,general,Gurgaon,INT00196,Tech Mahindra,Full Stack Developer Intern,Hyderabad,32253.0,On-site,0.5818942772221769,0.7633359459306797
+STU00480,Rohan Rajput,8.13,general,Mumbai,INT00070,Netflix,AI Research Intern,Chennai,143656.0,Hybrid,0.6277737308778977,0.6928010197077157
+STU00104,Aahan X. Mehta,7.6,reserved,Kolkata,INT00192,KPMG,Business Analyst Intern,Chennai,57601.0,Hybrid,0.5991260283810873,0.7357249995847214
+STU00937,Rekha Verma,7.27,general,Ahmedabad,INT00200,Zomato,Deep Learning Intern,Jaipur,43384.0,Remote,0.5903698386698271,0.7478127863312193
+STU00257,Kartik Goyal,7.48,female,Hyderabad,INT00173,Netflix,Backend Developer Intern,Bangalore,112748.0,Remote,0.5991492718017597,0.7345231344599422
+STU00862,Khushi J. Joshi,6.04,rural,Ahmedabad,INT00015,McKinsey,Business Analyst Intern,Surat,80591.0,On-site,0.6231045293901558,0.6983200883328515
+STU00984,Reyansh Tiwari,6.05,reserved,Kolkata,INT00136,PhonePe,iOS Developer Intern,Chennai,58638.0,Hybrid,0.6892594130665324,0.5987310051642243
+STU00827,Rekha Chopra,8.86,general,Noida,INT00030,Microsoft,ML Engineer Intern,Noida,143654.0,On-site,0.5668855230650655,0.7814027861993894
+STU00126,Aahan Rajput,7.87,female,Noida,INT00104,Amazon,AI Research Intern,Gurgaon,121750.0,Remote,0.6116167698509469,0.7135001303485575
+STU00676,Shaurya Bansal,8.17,rural,Mumbai,INT00059,Microsoft,Site Reliability Intern,Hyderabad,119893.0,On-site,0.6258979208295202,0.6916274868174325
+STU00386,Amit Saxena,8.13,female,Ahmedabad,INT00154,ICICI Bank,Cybersecurity Intern,Ahmedabad,105528.0,On-site,0.573811734899717,0.7693049321938635
+STU00225,Lata Gupta,7.99,general,Hyderabad,INT00161,Apple,Backend Developer Intern,Jaipur,130703.0,Remote,0.5896176920191301,0.7446251774489173
+STU00114,Rekha Sharma,8.38,rural,Jaipur,INT00101,HDFC Bank,Cybersecurity Intern,Delhi,92686.0,On-site,0.6153587826878817,0.7054044721990235
+STU00826,Aditi K. Agarwal,7.98,general,Chennai,INT00174,Wipro,Web Developer Intern,Bangalore,27112.0,On-site,0.5763794116743532,0.7633889185181064
+STU00550,Anika O. Chauhan,7.29,general,Mumbai,INT00140,Freshworks,Android Developer Intern,Surat,53369.0,Remote,0.6039241604035653,0.7220428247434567
+STU00179,Vihaan Mittal,8.68,reserved,Noida,INT00033,KPMG,Strategy Intern,Noida,77924.0,On-site,0.584385555980104,0.7506850076905827
+STU00817,Karan T. Patel,8.09,rural,Bangalore,INT00181,TCS,Backend Developer Intern,Bangalore,37398.0,Remote,0.5841703951845629,0.7507436794208525
+STU00673,Aarav Singh,8.17,rural,Delhi,INT00140,Freshworks,Android Developer Intern,Surat,53369.0,Remote,0.5924902482633446,0.7378308846707684
+STU00489,Amit Y. Mehta,8.1,general,Mumbai,INT00086,PhonePe,Android Developer Intern,Gurgaon,76415.0,On-site,0.5915148751900704,0.7389824136559745
+STU00012,Arjun Chopra,8.05,rural,Chennai,INT00198,Ola,Deep Learning Intern,Chennai,53119.0,Hybrid,0.572731450450122,0.7662722414928097
+STU00558,Amit M. Tiwari,7.77,general,Kolkata,INT00020,TCS,Full Stack Developer Intern,Kolkata,25812.0,On-site,0.6008011802992503,0.7228443965536044
+STU00007,Meena K. Jain,8.64,reserved,Gurgaon,INT00049,McKinsey,Data Science Intern,Bangalore,78465.0,On-site,0.6296922045857264,0.6790366019519168
+STU00094,Neha Shah,7.96,reserved,Jaipur,INT00154,ICICI Bank,Cybersecurity Intern,Ahmedabad,105528.0,On-site,0.5729744132966097,0.76377748701107
+STU00838,Sara I. Rajput,8.29,general,Delhi,INT00197,Microsoft,Machine Learning Intern,Pune,116094.0,Remote,0.6067761463791111,0.7130312877454842
+STU00580,Keya G. Agarwal,6.88,general,Gurgaon,INT00090,Amazon,Backend Developer Intern,Ahmedabad,137637.0,On-site,0.6107615867163392,0.7069634989969231
+STU00271,Amit Iyer,6.56,general,Jaipur,INT00176,Swiggy,ML Engineer Intern,Jaipur,43993.0,Hybrid,0.6588484411840347,0.6345036076092154
+STU00102,Saanvi K. Kumar,8.04,general,Surat,INT00169,Google,Cloud Engineer Intern,Chennai,144491.0,Remote,0.6079143822871393,0.7108080142740483
+STU00636,Arjun Mishra,7.65,general,Jaipur,INT00113,McKinsey,Product Designer Intern,Noida,88274.0,On-site,0.5767856187233319,0.7573485378698339
+STU00874,Riya Rajput,8.55,rural,Pune,INT00143,ICICI Bank,Product Management Intern,Gurgaon,85633.0,On-site,0.5762443949665674,0.7578420214158514
+STU00582,Aarav Chopra,8.92,reserved,Ahmedabad,INT00078,Cognizant,Software Engineer Intern,Mumbai,38394.0,On-site,0.5936517600686818,0.7309972105877581
+STU00692,Keya Mehta,9.48,general,Surat,INT00057,Freshworks,AI Research Intern,Hyderabad,42547.0,Hybrid,0.5579280504090725,0.7845362567657295
+STU00272,Krishna Aggarwal,7.42,general,Mumbai,INT00106,KPMG,Full Stack Developer Intern,Mumbai,77523.0,Remote,0.5843959984193703,0.744714329728963
+STU00232,Rita Malhotra,8.29,general,Surat,INT00066,PwC,ML Engineer Intern,Delhi,50003.0,On-site,0.5642918872835656,0.7746281439999747
+STU00193,Anika Verma,9.01,reserved,Jaipur,INT00065,Freshworks,Mobile App Developer Intern,Noida,41499.0,On-site,0.6220505414399203,0.6876229168122572
+STU00113,Nisha Jain,8.27,general,Ahmedabad,INT00003,BYJU'S,React Developer Intern,Hyderabad,78336.0,On-site,0.5732752629027157,0.7603132849770905
+STU00573,Krishna Chopra,7.72,rural,Bangalore,INT00090,Amazon,Backend Developer Intern,Ahmedabad,137637.0,On-site,0.5959304644402419,0.7259114868303537
+STU00797,Khushi H. Kapoor,6.81,general,Pune,INT00022,JP Morgan,InfoSec Intern,Pune,62507.0,Hybrid,0.604351498941444,0.7130680201009264
+STU00209,Tara G. Nair,7.97,general,Ahmedabad,INT00187,Tech Mahindra,Software Engineer Intern,Ahmedabad,37157.0,Remote,0.5945146288567946,0.7278057270209597
+STU00280,Sunita Nair,6.82,reserved,Bangalore,INT00173,Netflix,Backend Developer Intern,Bangalore,112748.0,Remote,0.6112440796826568,0.7026907473472086
+STU00815,Anaya Jindal,6.49,reserved,Jaipur,INT00145,Meta,Cloud Engineer Intern,Ahmedabad,100989.0,On-site,0.6536849486195853,0.638343894160678
+STU00493,Rekha Saxena,6.75,general,Chennai,INT00152,PwC,Business Analyst Intern,Chennai,43890.0,Remote,0.6528555879992066,0.6393906125935638
+STU00471,Sunita Mittal,8.62,general,Pune,INT00075,HCL Technologies,Frontend Developer Intern,Noida,40202.0,On-site,0.5734886125036304,0.757734347143969
+STU00320,Advaith T. Joshi,7.45,general,Kolkata,INT00021,Tech Mahindra,Backend Developer Intern,Kolkata,32304.0,On-site,0.6543275796933019,0.6360859050808608
+STU00802,Pari O. Chopra,8.12,rural,Mumbai,INT00035,TCS,Product Management Intern,Pune,39272.0,Hybrid,0.5685217588983227,0.7630461214351443
+STU00859,Rahul J. Mehta,7.77,female,Noida,INT00100,Goldman Sachs,ML Engineer Intern,Hyderabad,90570.0,Remote,0.5739470291364466,0.7548209458683719
+STU00309,Neha B. Patel,7.99,general,Pune,INT00158,Google,Cloud Engineer Intern,Kolkata,121071.0,Remote,0.5836629640001413,0.739478956865347
+STU00719,Geeta X. Tiwari,7.8,general,Delhi,INT00147,TCS,Web Developer Intern,Surat,44561.0,On-site,0.5707065477922725,0.7586179528698171
+STU00431,Geeta Chauhan,7.49,reserved,Noida,INT00082,Amazon,ML Engineer Intern,Surat,141474.0,On-site,0.6513661943430398,0.6373663972242385
+STU00408,Ajay Joshi,7.84,rural,Ahmedabad,INT00025,Paytm,Deep Learning Intern,Pune,68780.0,On-site,0.6196253093125659,0.684938964026085
+STU00560,Sneha Rajput,8.4,general,Hyderabad,INT00144,KPMG,Product Management Intern,Ahmedabad,53557.0,On-site,0.5646270194426735,0.7671010983946516
+STU00637,Arnav Joshi,7.02,rural,Jaipur,INT00138,Tech Mahindra,Business Analyst Intern,Delhi,34042.0,On-site,0.589381913222108,0.7298069521488498
+STU00487,Aryan Chopra,6.98,general,Hyderabad,INT00198,Ola,Deep Learning Intern,Chennai,53119.0,Hybrid,0.6324186103640596,0.6652511459383993
+STU00551,Tara Sharma,6.88,general,Pune,INT00197,Microsoft,Machine Learning Intern,Pune,116094.0,Remote,0.6187112495107903,0.6858022178453012
+STU00278,Priya Rajput,8.51,general,Hyderabad,INT00090,Amazon,Backend Developer Intern,Ahmedabad,137637.0,On-site,0.5639049269699726,0.7678062671572494
+STU00478,Krishna T. Saxena,7.86,female,Ahmedabad,INT00110,Flipkart,Data Analyst Intern,Kolkata,76808.0,Hybrid,0.5890920538580267,0.7296844948265606
+STU00082,Krishna Q. Mehta,9.13,rural,Kolkata,INT00021,Tech Mahindra,Backend Developer Intern,Kolkata,32304.0,On-site,0.5614858409030808,0.7710914614289608
+STU00245,Aditi H. Verma,8.34,reserved,Gurgaon,INT00187,Tech Mahindra,Software Engineer Intern,Ahmedabad,37157.0,Remote,0.5897107085697635,0.7285464880439784
+STU00746,Shaurya Kumar,7.18,general,Jaipur,INT00035,TCS,Product Management Intern,Pune,39272.0,Hybrid,0.6214602654762413,0.6808967150904686
+STU00830,Aahan G. Thakur,6.12,rural,Hyderabad,INT00025,Paytm,Deep Learning Intern,Pune,68780.0,On-site,0.6613196539148456,0.6210632550451306
+STU00684,Arjun Joshi,6.48,general,Hyderabad,INT00037,Swiggy,Machine Learning Intern,Pune,50945.0,Hybrid,0.6006875549701166,0.7114187904817297
+STU00211,Amit W. Saxena,6.56,general,Surat,INT00010,PwC,Business Analyst Intern,Hyderabad,44652.0,On-site,0.5986200560309933,0.7144849140726683
+STU00186,Atharv N. Mishra,8.97,general,Hyderabad,INT00086,PhonePe,Android Developer Intern,Gurgaon,76415.0,On-site,0.6023289296080439,0.7089172788447425
+STU00168,Sai Malhotra,7.47,general,Chennai,INT00063,Google,Cloud Engineer Intern,Pune,88330.0,On-site,0.5869892120352653,0.7318342633950783
+STU00334,Rekha Chopra,8.11,general,Bangalore,INT00014,EY,Backend Developer Intern,Surat,89019.0,On-site,0.5999386044934908,0.7119812899618623
+STU00986,Vihaan F. Malhotra,8.46,rural,Mumbai,INT00032,Goldman Sachs,Security Analyst Intern,Mumbai,109429.0,On-site,0.5577731055502011,0.7751609934650767
+STU00250,Saanvi K. Jindal,7.75,rural,Chennai,INT00094,Infosys,Full Stack Developer Intern,Delhi,31559.0,On-site,0.5718191958240839,0.7535065843670568
+STU00718,Saanvi Malhotra,7.61,general,Kolkata,INT00186,Ola,Mobile App Developer Intern,Ahmedabad,54303.0,On-site,0.5806565704175353,0.73922449011601
+STU00067,Tara Chopra,7.28,general,Ahmedabad,INT00158,Google,Cloud Engineer Intern,Kolkata,121071.0,Remote,0.638718068212643,0.6520453852957631
+STU00043,Neha Saxena,8.67,female,Pune,INT00184,Accenture,Product Designer Intern,Delhi,41315.0,Hybrid,0.5732681470757793,0.7498761008981312
+STU00369,Anika Patel,7.95,reserved,Surat,INT00117,Infosys,Full Stack Developer Intern,Surat,28808.0,On-site,0.5727249248916744,0.7504650054396443
+STU00756,Pihu Gupta,7.32,general,Gurgaon,INT00009,Netflix,Deep Learning Intern,Gurgaon,107760.0,On-site,0.6002898616259789,0.7089555873022577
+STU00127,Kartik T. Joshi,8.03,rural,Mumbai,INT00139,Accenture,ML Engineer Intern,Noida,61596.0,Remote,0.5969411391376833,0.7138707100742049
+STU00236,Ananya Sharma,6.86,general,Ahmedabad,INT00159,Meta,Deep Learning Intern,Delhi,91362.0,On-site,0.5952708833437947,0.7158017942656552
+STU00180,Neha Goyal,6.74,rural,Noida,INT00155,EY,Software Engineer Intern,Ahmedabad,75868.0,On-site,0.6073455010989222,0.6967192592928244
+STU00336,Meena G. Bansal,6.51,general,Kolkata,INT00030,Microsoft,ML Engineer Intern,Noida,143654.0,On-site,0.637318596318709,0.651245063692891
+STU00022,Ishaan U. Verma,8.2,general,Bangalore,INT00142,PwC,Graphic Designer Intern,Pune,47167.0,On-site,0.5618288579071382,0.7640837116278891
+STU00213,Aarav Joshi,8.39,general,Delhi,INT00137,Wipro,Software Engineer Intern,Delhi,25404.0,Hybrid,0.6213865492540754,0.6746274874433451
+STU00584,Myra Kumar,6.43,general,Noida,INT00182,ICICI Bank,Software Engineer Intern,Pune,108846.0,On-site,0.6241932138535121,0.669544161286413
+STU00446,Aadhya Y. Agarwal,6.63,general,Gurgaon,INT00073,Microsoft,Data Science Intern,Gurgaon,102527.0,On-site,0.5934098151202547,0.7155614995998529
+STU00800,Meena Sharma,7.77,general,Bangalore,INT00113,McKinsey,Product Designer Intern,Noida,88274.0,On-site,0.585789228803532,0.7267767987483705
+STU00774,Pooja Shah,7.42,general,Bangalore,INT00034,Flipkart,React Developer Intern,Noida,78353.0,Hybrid,0.5792399284261632,0.7357974940100793
+STU00024,Aditya C. Goel,7.36,female,Delhi,INT00066,PwC,ML Engineer Intern,Delhi,50003.0,On-site,0.5778687636330799,0.7367988854009697
+STU00279,Keya F. Kapoor,7.97,general,Ahmedabad,INT00081,Zomato,Mobile App Developer Intern,Gurgaon,45109.0,Remote,0.5661376609480453,0.7543923873890732
+STU00651,Suresh Thakur,7.92,general,Chennai,INT00180,Flipkart,Android Developer Intern,Pune,42269.0,On-site,0.5769493227651664,0.7380516249602452
+STU00210,Arnav Goyal,7.85,female,Kolkata,INT00039,PhonePe,Frontend Developer Intern,Chennai,52977.0,On-site,0.5774524334104774,0.7372898832115559
+STU00567,Kartik Kumar,8.61,reserved,Hyderabad,INT00137,Wipro,Software Engineer Intern,Delhi,25404.0,Hybrid,0.5493975650743127,0.7792308788086661
+STU00710,Khushi Aggarwal,7.49,general,Mumbai,INT00007,HDFC Bank,InfoSec Intern,Ahmedabad,67310.0,On-site,0.6085694563928845,0.6897337849229662
+STU00681,Neha Pandey,8.26,general,Gurgaon,INT00084,McKinsey,ML Engineer Intern,Hyderabad,55451.0,On-site,0.564528729852622,0.7551635894017182
+STU00354,Rahul Y. Shah,7.67,rural,Chennai,INT00011,Meta,Backend Developer Intern,Pune,92363.0,On-site,0.5672445151854574,0.749607023028561
+STU00252,Geeta J. Shah,7.25,general,Surat,INT00046,Goldman Sachs,InfoSec Intern,Mumbai,67597.0,Remote,0.639528764982434,0.6409494498462707
+STU00258,Lata Jindal,8.22,reserved,Chennai,INT00177,JP Morgan,InfoSec Intern,Chennai,99132.0,On-site,0.578229368475178,0.7328265693130279
+STU00055,Ajay Verma,6.07,general,Ahmedabad,INT00111,Wipro,Full Stack Developer Intern,Gurgaon,46374.0,On-site,0.6096702038472819,0.6853547834125939
+STU00615,Daksh Yadav,7.64,rural,Mumbai,INT00188,BYJU'S,Android Developer Intern,Kolkata,73648.0,On-site,0.5701310588776735,0.744641083819257
+STU00121,Atharv Kumar,7.69,general,Kolkata,INT00003,BYJU'S,React Developer Intern,Hyderabad,78336.0,On-site,0.5771919702567363,0.7339126373440473
+STU00531,Khushi Mittal,7.43,rural,Surat,INT00155,EY,Software Engineer Intern,Ahmedabad,75868.0,On-site,0.5768359504891305,0.7342728759138962
+STU00765,Dev Aggarwal,6.55,rural,Chennai,INT00177,JP Morgan,InfoSec Intern,Chennai,99132.0,On-site,0.6656467196726027,0.5999034108646184
+STU00588,Pari Singh,7.82,general,Chennai,INT00013,TCS,Full Stack Developer Intern,Kolkata,32004.0,Remote,0.5731741981171768,0.7385489632828477
+STU00246,Myra C. Mishra,7.61,reserved,Bangalore,INT00198,Ola,Deep Learning Intern,Chennai,53119.0,Hybrid,0.590527981712623,0.7119655654387194
+STU00869,Pihu Shah,8.77,female,Ahmedabad,INT00104,Amazon,AI Research Intern,Gurgaon,121750.0,Remote,0.5746074368409954,0.7351990991789714
+STU00318,Aditi T. Mittal,7.19,female,Delhi,INT00066,PwC,ML Engineer Intern,Delhi,50003.0,On-site,0.5828358678613395,0.7223324118981977
+STU00150,Fatima O. Iyer,7.4,rural,Chennai,INT00028,McKinsey,Graphic Designer Intern,Chennai,57996.0,Hybrid,0.6148335195332879,0.6737066500896197
+STU00599,Pihu Nair,6.98,rural,Kolkata,INT00007,HDFC Bank,InfoSec Intern,Ahmedabad,67310.0,On-site,0.6025005350282233,0.6917780886701264
+STU00421,Diya Nair,6.94,rural,Chennai,INT00133,Netflix,ML Engineer Intern,Chennai,115532.0,Remote,0.6068854856647341,0.684104218624695
+STU00384,Vivaan Jain,8.13,female,Jaipur,INT00048,Google,Data Science Intern,Ahmedabad,134459.0,On-site,0.5590139553348994,0.7557461323855689
+STU00453,Sara Agarwal,6.09,general,Hyderabad,INT00080,HDFC Bank,Business Analyst Intern,Hyderabad,61194.0,Remote,0.6222383991943262,0.6606031197358638
+STU00610,Rahul Iyer,7.19,general,Pune,INT00110,Flipkart,Data Analyst Intern,Kolkata,76808.0,Hybrid,0.573685481038342,0.7331203957826191
+STU00060,Sunita Yadav,8.61,general,Pune,INT00118,EY,Data Analyst Intern,Hyderabad,65948.0,Remote,0.5533710430959194,0.7631451790628122
+STU00451,Fatima Jindal,7.22,general,Surat,INT00158,Google,Cloud Engineer Intern,Kolkata,121071.0,Remote,0.5752374720337162,0.7299190155108212
+STU00843,Ishaan P. Chauhan,8.83,general,Ahmedabad,INT00072,Freshworks,Frontend Developer Intern,Pune,67785.0,On-site,0.599959446913291,0.6927444425835793
+STU00922,Vihaan Shah,7.02,general,Delhi,INT00116,PhonePe,Data Analyst Intern,Delhi,51217.0,On-site,0.5844637382977137,0.7159566708819745
+STU00068,Darsh R. Jindal,6.91,female,Noida,INT00189,KPMG,ML Engineer Intern,Bangalore,47882.0,On-site,0.6102263808273106,0.6765685603886697
+STU00872,Amit Singh,8.38,reserved,Chennai,INT00008,Cognizant,Full Stack Developer Intern,Chennai,25638.0,On-site,0.5925478836137963,0.7028452868711277
+STU00541,Reyansh Mehta,8.95,general,Hyderabad,INT00081,Zomato,Mobile App Developer Intern,Gurgaon,45109.0,Remote,0.6117015032198116,0.6736468280666578
+STU00936,Anaya Bansal,6.76,general,Delhi,INT00025,Paytm,Deep Learning Intern,Pune,68780.0,On-site,0.5990453293873956,0.6920398274732982
+STU00867,Ravi Mittal,7.36,general,Jaipur,INT00017,JP Morgan,Software Engineer Intern,Chennai,67564.0,Hybrid,0.5742369101686051,0.7286280255934713
+STU00415,Meena B. Sharma,6.9,general,Bangalore,INT00085,HCL Technologies,Frontend Developer Intern,Bangalore,25622.0,On-site,0.5785569457677958,0.7217104392905068
+STU00679,Rahul Nair,6.12,general,Kolkata,INT00148,Cognizant,Full Stack Developer Intern,Kolkata,37232.0,On-site,0.6003819574660352,0.6886768650038197
+STU00277,Pihu Malhotra,8.15,general,Noida,INT00195,Morgan Stanley,InfoSec Intern,Ahmedabad,98931.0,Hybrid,0.5735705090579062,0.7286872911461078
+STU00822,Aarav R. Iyer,6.65,general,Mumbai,INT00055,Deloitte,Backend Developer Intern,Mumbai,41437.0,On-site,0.5854550452859555,0.710127134178973
+STU00535,Shaurya N. Shah,6.61,reserved,Delhi,INT00124,JP Morgan,InfoSec Intern,Gurgaon,75792.0,Hybrid,0.5910018974237086,0.7015763826663607
+STU00059,Reyansh Kumar,7.27,general,Bangalore,INT00136,PhonePe,iOS Developer Intern,Chennai,58638.0,Hybrid,0.5698906356211072,0.7330245914290858
+STU00404,Ravi Saxena,8.71,general,Chennai,INT00140,Freshworks,Android Developer Intern,Surat,53369.0,Remote,0.5940845520192977,0.6959559281347223
+STU00834,Keya Rajput,7.92,general,Delhi,INT00109,JP Morgan,Product Management Intern,Ahmedabad,106801.0,Remote,0.5621832438285118,0.7435068253933952
+STU00308,Nikhil G. Joshi,6.9,general,Mumbai,INT00084,McKinsey,ML Engineer Intern,Hyderabad,55451.0,On-site,0.5955136819745324,0.6931396592201726
+STU00337,Vivaan Rajput,7.87,general,Hyderabad,INT00053,Tech Mahindra,Software Engineer Intern,Bangalore,42405.0,On-site,0.6018156424763572,0.6832773947364821
+STU00387,Krishna Kumar,7.37,rural,Gurgaon,INT00026,Zomato,Mobile App Developer Intern,Gurgaon,61191.0,Remote,0.5799067952754622,0.7161398086258723
+STU00414,Sunita Chauhan,8.95,reserved,Kolkata,INT00001,Infosys,Full Stack Developer Intern,Jaipur,25976.0,Hybrid,0.5524669055050382,0.7565019907132948
+STU00514,Karan E. Iyer,8.6,general,Pune,INT00161,Apple,Backend Developer Intern,Jaipur,130703.0,Remote,0.5697247340966812,0.7303453518994854
+STU00929,Kartik Thakur,6.43,reserved,Jaipur,INT00067,TCS,Software Engineer Intern,Delhi,34425.0,On-site,0.5924636214768747,0.6947462655984689
+STU00595,Dev M. Pandey,7.83,rural,Delhi,INT00107,Axis Bank,ML Engineer Intern,Jaipur,96758.0,On-site,0.580358239174789,0.7116234346013568
+STU00217,Pihu Q. Agarwal,8.36,general,Delhi,INT00049,McKinsey,Data Science Intern,Bangalore,78465.0,On-site,0.5737925022540722,0.720625235082444
+STU00083,Ajay Jain,8.39,reserved,Ahmedabad,INT00150,Flipkart,Deep Learning Intern,Jaipur,54142.0,On-site,0.6159175085532222,0.6568833074097706
+STU00754,Aryan Chauhan,6.28,general,Pune,INT00150,Flipkart,Deep Learning Intern,Jaipur,54142.0,On-site,0.5864167688981627,0.6998774755924098
+STU00157,Amit Z. Nair,7.26,female,Pune,INT00035,TCS,Product Management Intern,Pune,39272.0,Hybrid,0.5721653458318261,0.7193194918286383
+STU00793,Ajay Gupta,7.91,female,Pune,INT00152,PwC,Business Analyst Intern,Chennai,43890.0,Remote,0.5571049736583888,0.7412529290040304
+STU00643,Meena Agarwal,9.02,rural,Jaipur,INT00165,Meta,Site Reliability Intern,Gurgaon,113438.0,On-site,0.5780785313110381,0.7066307643701667
+STU00694,Sai Thakur,8.16,general,Hyderabad,INT00090,Amazon,Backend Developer Intern,Ahmedabad,137637.0,On-site,0.5666109418766824,0.7238060284292973
+STU00011,Diya Iyer,8.49,general,Mumbai,INT00027,Zomato,iOS Developer Intern,Pune,78750.0,Hybrid,0.5466764593299439,0.7534998648393831
+STU00147,Vivaan P. Gupta,7.3,general,Pune,INT00088,Amazon,ML Engineer Intern,Pune,97486.0,On-site,0.563286648380171,0.7282377776240052
+STU00559,Nikhil Bansal,6.49,general,Hyderabad,INT00010,PwC,Business Analyst Intern,Hyderabad,44652.0,On-site,0.5956762772381801,0.6796146219447453
+STU00890,Kavya Mittal,8.49,general,Noida,INT00041,HCL Technologies,Software Engineer Intern,Surat,44284.0,Remote,0.6160873547293444,0.6476051197601724
+STU00844,Daksh Mishra,7.4,reserved,Surat,INT00159,Meta,Deep Learning Intern,Delhi,91362.0,On-site,0.6117463835419311,0.6539262571588509
+STU00417,Nikhil J. Kumar,7.94,female,Bangalore,INT00130,HCL Technologies,Software Engineer Intern,Mumbai,25216.0,On-site,0.608180333893283,0.6585502401740868
+STU00001,Krishna Pandey,7.39,general,Pune,INT00011,Meta,Backend Developer Intern,Pune,92363.0,On-site,0.5718539698086209,0.7126474267673255
+STU00468,Sara G. Bansal,6.41,general,Delhi,INT00005,Apple,Software Engineer Intern,Bangalore,145435.0,Remote,0.5835344245452683,0.6945238079496372
+STU00910,Arnav Nair,7.46,rural,Chennai,INT00200,Zomato,Deep Learning Intern,Jaipur,43384.0,Remote,0.5616047946912865,0.7272580772748121
+STU00276,Pihu K. Chopra,8.66,reserved,Ahmedabad,INT00145,Meta,Cloud Engineer Intern,Ahmedabad,100989.0,On-site,0.5910423665717568,0.6826800057142768
+STU00905,Meena Joshi,6.79,reserved,Ahmedabad,INT00047,Apple,Full Stack Developer Intern,Surat,143532.0,On-site,0.637488330731912,0.6121958977993774
+STU00015,Rohan Yadav,6.67,general,Hyderabad,INT00124,JP Morgan,InfoSec Intern,Gurgaon,75792.0,Hybrid,0.5924927847714418,0.6795122263077654
+STU00062,Ananya W. Iyer,6.64,general,Bangalore,INT00009,Netflix,Deep Learning Intern,Gurgaon,107760.0,On-site,0.6060146273016187,0.6573174616046619
+STU00234,Tara Chopra,7.5,rural,Ahmedabad,INT00095,Freshworks,Data Analyst Intern,Ahmedabad,42953.0,On-site,0.5691627707254975,0.712550247654716
+STU00383,Anika S. Shah,7.36,reserved,Jaipur,INT00147,TCS,Web Developer Intern,Surat,44561.0,On-site,0.6012315500773444,0.664441532991008
+STU00829,Rohan C. Singh,6.22,general,Delhi,INT00053,Tech Mahindra,Software Engineer Intern,Bangalore,42405.0,On-site,0.6608910659661351,0.5743702991321195
+STU00457,Ajay O. Kapoor,6.88,reserved,Jaipur,INT00035,TCS,Product Management Intern,Pune,39272.0,Hybrid,0.6168398785965703,0.640249094476657
+STU00879,Advaith Kapoor,7.28,general,Ahmedabad,INT00109,JP Morgan,Product Management Intern,Ahmedabad,106801.0,Remote,0.6302039233350657,0.6191944333582092
+STU00048,Reyansh G. Malhotra,6.1,rural,Ahmedabad,INT00187,Tech Mahindra,Software Engineer Intern,Ahmedabad,37157.0,Remote,0.6222743682992283,0.6306433958645182
+STU00392,Priya Q. Nair,6.53,general,Mumbai,INT00130,HCL Technologies,Software Engineer Intern,Mumbai,25216.0,On-site,0.6071192613932256,0.6528944284651668
+STU00876,Nisha Goyal,6.61,general,Pune,INT00063,Google,Cloud Engineer Intern,Pune,88330.0,On-site,0.6010537788501881,0.661036700988051
+STU00849,Geeta Verma,6.7,general,Ahmedabad,INT00157,ICICI Bank,Strategy Intern,Hyderabad,91248.0,Hybrid,0.5959452643299143,0.6685889593091464
+STU00391,Anika Shah,7.96,general,Delhi,INT00035,TCS,Product Management Intern,Pune,39272.0,Hybrid,0.5529829399222129,0.7329552554222977
+STU00832,Ishaan Joshi,7.11,reserved,Chennai,INT00126,HDFC Bank,Software Engineer Intern,Ahmedabad,72453.0,On-site,0.5787432955683037,0.6941583352855657
+STU00985,Rekha S. Pandey,6.52,general,Ahmedabad,INT00141,Microsoft,Data Analyst Intern,Bangalore,119692.0,On-site,0.648421432657473,0.5895779821633186
+STU00518,Darsh Singh,7.84,rural,Pune,INT00184,Accenture,Product Designer Intern,Delhi,41315.0,Hybrid,0.5513388761716861,0.735040812992694
+STU00317,Arnav Aggarwal,7.97,rural,Hyderabad,INT00165,Meta,Site Reliability Intern,Gurgaon,113438.0,On-site,0.5579025386308332,0.7251843030413712
+STU00515,Lata Pandey,9.01,general,Bangalore,INT00167,Morgan Stanley,Full Stack Developer Intern,Delhi,116756.0,On-site,0.5436374891175633,0.746261700872401
+STU00533,Daksh U. Malhotra,8.97,general,Hyderabad,INT00059,Microsoft,Site Reliability Intern,Hyderabad,119893.0,On-site,0.5460246700081318,0.7426009227039106
+STU00370,Kartik Kapoor,7.36,reserved,Ahmedabad,INT00152,PwC,Business Analyst Intern,Chennai,43890.0,Remote,0.600241402472985,0.6611224625287325
+STU00907,Ishaan Saxena,9.16,general,Delhi,INT00054,HDFC Bank,ML Engineer Intern,Ahmedabad,104407.0,Remote,0.5581089938041558,0.7235013599022572
+STU00530,Shaurya Yadav,6.59,general,Mumbai,INT00062,Paytm,React Developer Intern,Bangalore,44482.0,On-site,0.5784605287250447,0.6921998846270011
+STU00934,Aahan H. Saxena,9.15,general,Kolkata,INT00048,Google,Data Science Intern,Ahmedabad,134459.0,On-site,0.5840372654912184,0.6826669810750965
+STU00495,Anaya Goel,7.14,general,Bangalore,INT00064,McKinsey,Data Analyst Intern,Gurgaon,67936.0,Hybrid,0.5620349576271241,0.7150419509922045
+STU00665,Karan Goel,8.08,general,Hyderabad,INT00031,EY,Data Analyst Intern,Kolkata,70257.0,On-site,0.6108084502572357,0.6416727906506512
+STU00808,Atharv C. Jindal,7.37,rural,Hyderabad,INT00074,TCS,Web Developer Intern,Jaipur,41727.0,On-site,0.570878200309043,0.7011642552160927
+STU00228,Aryan Rajput,6.99,general,Noida,INT00040,Accenture,Business Analyst Intern,Delhi,47476.0,On-site,0.5983040960017726,0.6593184614377258
+STU00979,Nikhil Malhotra,7.61,rural,Pune,INT00035,TCS,Product Management Intern,Pune,39272.0,Hybrid,0.5523074750901364,0.7279371583353534
+STU00923,Darsh Iyer,8.18,general,Ahmedabad,INT00013,TCS,Full Stack Developer Intern,Kolkata,32004.0,Remote,0.5653310951778318,0.708211641215541
+STU00908,Keya Aggarwal,6.68,general,Bangalore,INT00169,Google,Cloud Engineer Intern,Chennai,144491.0,Remote,0.5937165382828522,0.66544773785295
+STU00677,Saanvi C. Tiwari,6.12,reserved,Jaipur,INT00188,BYJU'S,Android Developer Intern,Kolkata,73648.0,On-site,0.5878709777629885,0.6741314380311467
+STU00796,Karan Yadav,6.06,female,Surat,INT00135,TCS,Business Analyst Intern,Bangalore,36659.0,On-site,0.6135514618384765,0.6354078597704352
+STU00436,Riya Mishra,7.8,reserved,Delhi,INT00112,Axis Bank,Data Science Intern,Pune,97221.0,On-site,0.5714244836088574,0.6982315237218395
+STU00074,Ajay Yadav,7.24,rural,Gurgaon,INT00110,Flipkart,Data Analyst Intern,Kolkata,76808.0,Hybrid,0.5611716342617634,0.7132517956134874
+STU00026,Arjun Shah,7.15,general,Gurgaon,INT00059,Microsoft,Site Reliability Intern,Hyderabad,119893.0,On-site,0.5729633576324507,0.6952046375398229
+STU00853,Pari Iyer,7.32,rural,Jaipur,INT00134,Freshworks,Frontend Developer Intern,Gurgaon,60155.0,Remote,0.6059858703359368,0.6456225541260809
+STU00644,Aryan Nair,6.86,female,Chennai,INT00136,PhonePe,iOS Developer Intern,Chennai,58638.0,Hybrid,0.5869343470495101,0.6735847656014329
+STU00315,Nikhil G. Gupta,7.84,general,Ahmedabad,INT00061,TCS,Full Stack Developer Intern,Mumbai,46027.0,Hybrid,0.5571671780576599,0.717522353989983
+STU00639,Geeta Kumar,7.16,female,Jaipur,INT00075,HCL Technologies,Frontend Developer Intern,Noida,40202.0,On-site,0.5657213927081954,0.7038053525709185
+STU00955,Ira Nair,7.27,rural,Mumbai,INT00019,Deloitte,Business Analyst Intern,Mumbai,48352.0,On-site,0.6330878783479935,0.6021496256274169
+STU00038,Nikhil Patel,6.16,general,Pune,INT00181,TCS,Backend Developer Intern,Bangalore,37398.0,Remote,0.5787983633643636,0.6818058371014627
+STU00348,Lata Chauhan,7.09,general,Hyderabad,INT00187,Tech Mahindra,Software Engineer Intern,Ahmedabad,37157.0,Remote,0.605127948047863,0.6421580587991073
+STU00783,Aahan A. Chopra,6.19,general,Delhi,INT00137,Wipro,Software Engineer Intern,Delhi,25404.0,Hybrid,0.6213121380393011,0.6172155861380173
+STU00638,Priya Goel,8.73,reserved,Noida,INT00074,TCS,Web Developer Intern,Jaipur,41727.0,On-site,0.562273425598721,0.7055069449609414
+STU00761,Saanvi Yadav,6.67,general,Hyderabad,INT00101,HDFC Bank,Cybersecurity Intern,Delhi,92686.0,On-site,0.5768511720839921,0.683309176661458
+STU00502,Geeta Chauhan,7.63,rural,Gurgaon,INT00052,Goldman Sachs,Security Analyst Intern,Noida,108940.0,On-site,0.5489944038484131,0.7250601984278248
+STU00052,Reyansh Chopra,7.5,female,Chennai,INT00089,KPMG,Data Science Intern,Chennai,53072.0,On-site,0.5610466777463472,0.7066712337220925
+STU00635,Dev Kapoor,6.82,general,Pune,INT00063,Google,Cloud Engineer Intern,Pune,88330.0,On-site,0.6053695764281415,0.639840197601616
+STU00581,Diya Mittal,8.87,rural,Chennai,INT00155,EY,Software Engineer Intern,Ahmedabad,75868.0,On-site,0.5657583132370345,0.6991901119169803
+STU00190,Advaith Chauhan,6.37,rural,Mumbai,INT00118,EY,Data Analyst Intern,Hyderabad,65948.0,Remote,0.6171100920611825,0.6219485261167581
+STU00350,Aarav Agarwal,7.76,general,Pune,INT00110,Flipkart,Data Analyst Intern,Kolkata,76808.0,Hybrid,0.5565899971351215,0.7121735406554534
+STU00883,Dev Gupta,7.9,general,Chennai,INT00100,Goldman Sachs,ML Engineer Intern,Hyderabad,90570.0,Remote,0.5429432562875758,0.7326068337325657
+STU00381,Advaith Mishra,7.88,general,Noida,INT00148,Cognizant,Full Stack Developer Intern,Kolkata,37232.0,On-site,0.5466476647377153,0.7266161291033683
+STU00924,Myra J. Chauhan,8.55,rural,Kolkata,INT00060,EY,Full Stack Developer Intern,Hyderabad,58333.0,On-site,0.5325652267379186,0.7472318350578485
+STU00064,Khushi K. Aggarwal,6.82,general,Ahmedabad,INT00188,BYJU'S,Android Developer Intern,Kolkata,73648.0,On-site,0.602962980038609,0.6406257295397101
+STU00812,Vikram Verma,7.65,general,Pune,INT00021,Tech Mahindra,Backend Developer Intern,Kolkata,32304.0,On-site,0.5593751722780348,0.7052496213441918
+STU00521,Anaya Mishra,7.36,rural,Pune,INT00069,JP Morgan,Software Engineer Intern,Bangalore,84654.0,Remote,0.6012671210895946,0.6419352697509466
+STU00142,Atharv Malhotra,6.65,general,Hyderabad,INT00124,JP Morgan,InfoSec Intern,Gurgaon,75792.0,Hybrid,0.6061711250696028,0.6339577312808379
+STU00836,Tara A. Tiwari,6.5,general,Pune,INT00196,Tech Mahindra,Full Stack Developer Intern,Hyderabad,32253.0,On-site,0.5987054195600088,0.6446783099572295
+STU00590,Amit G. Tiwari,6.72,general,Jaipur,INT00020,TCS,Full Stack Developer Intern,Kolkata,25812.0,On-site,0.606908553059318,0.632283821158508
+STU00687,Vivaan K. Shah,7.56,general,Surat,INT00089,KPMG,Data Science Intern,Chennai,53072.0,On-site,0.5623557361986177,0.6988424481112592
+STU00037,Atharv Aggarwal,6.54,general,Hyderabad,INT00012,TCS,Backend Developer Intern,Hyderabad,38824.0,On-site,0.5752026666387291,0.6794105470236451
+STU00871,Keya Verma,6.2,general,Hyderabad,INT00144,KPMG,Product Management Intern,Ahmedabad,53557.0,On-site,0.5838267098901859,0.666038280150013
+STU00231,Vikram Aggarwal,7.41,general,Bangalore,INT00147,TCS,Web Developer Intern,Surat,44561.0,On-site,0.6234793305861211,0.6065004045503297
+STU00330,Meena Z. Aggarwal,8.54,general,Kolkata,INT00115,Ola,Web Developer Intern,Gurgaon,45467.0,Remote,0.5322971887105046,0.7425785228542604
+STU00441,Ishaan Z. Rajput,7.92,reserved,Kolkata,INT00123,Freshworks,Android Developer Intern,Noida,71485.0,Hybrid,0.5941260891459866,0.6488221072863222
+STU00726,Pooja S. Goel,6.93,rural,Noida,INT00055,Deloitte,Backend Developer Intern,Mumbai,41437.0,On-site,0.561575418884592,0.6970287734702634
+STU00611,Daksh Jain,7.82,general,Hyderabad,INT00065,Freshworks,Mobile App Developer Intern,Noida,41499.0,On-site,0.5487872596438725,0.7159202672822869
+STU00124,Dev Yadav,7.38,general,Pune,INT00005,Apple,Software Engineer Intern,Bangalore,145435.0,Remote,0.6027783910898428,0.6348978913107973
+STU00267,Harsh K. Bansal,6.8,rural,Bangalore,INT00053,Tech Mahindra,Software Engineer Intern,Bangalore,42405.0,On-site,0.6220842558089967,0.6053759393167424
+STU00792,Arnav Agarwal,8.54,rural,Hyderabad,INT00200,Zomato,Deep Learning Intern,Jaipur,43384.0,Remote,0.545790349781538,0.7197954211179534
+STU00188,Ayaan Y. Patel,7.45,general,Mumbai,INT00061,TCS,Full Stack Developer Intern,Mumbai,46027.0,Hybrid,0.6064430622811782,0.6279849988852917
+STU00513,Anika Agarwal,7.55,reserved,Bangalore,INT00016,Paytm,Data Science Intern,Jaipur,75708.0,On-site,0.5740141475304568,0.6761911889601139
+STU00780,Anika Mittal,6.19,general,Pune,INT00094,Infosys,Full Stack Developer Intern,Delhi,31559.0,On-site,0.5943991280363071,0.6438866159410901
+STU00641,Ishaan Chauhan,7.79,general,Ahmedabad,INT00137,Wipro,Software Engineer Intern,Delhi,25404.0,Hybrid,0.5587718432416777,0.6964153518162702
+STU00158,Sai Aggarwal,7.89,general,Gurgaon,INT00104,Amazon,AI Research Intern,Gurgaon,121750.0,Remote,0.5948316490711574,0.6421210040538532
+STU00297,Saanvi E. Chopra,6.89,general,Chennai,INT00056,Accenture,Software Engineer Intern,Pune,60246.0,On-site,0.5580975830284067,0.6970948370843232
+STU00539,Aryan Jindal,6.8,general,Hyderabad,INT00118,EY,Data Analyst Intern,Hyderabad,65948.0,Remote,0.6077159259239537,0.6224126449299326
+STU00966,Arnav W. Iyer,7.05,general,Kolkata,INT00075,HCL Technologies,Frontend Developer Intern,Noida,40202.0,On-site,0.6060460479771776,0.623864834011309
+STU00516,Rita Nair,7.63,reserved,Hyderabad,INT00179,Microsoft,Site Reliability Intern,Jaipur,110490.0,On-site,0.5420502654772134,0.7191388118531967
+STU00507,Arnav P. Verma,7.95,rural,Gurgaon,INT00180,Flipkart,Android Developer Intern,Pune,42269.0,On-site,0.5724299820974099,0.6735060544226241
+STU00260,Nikhil S. Gupta,7.56,rural,Noida,INT00169,Google,Cloud Engineer Intern,Chennai,144491.0,Remote,0.5604667903037436,0.6913850313898109
+STU00427,Ajay Nair,7.35,general,Jaipur,INT00081,Zomato,Mobile App Developer Intern,Gurgaon,45109.0,Remote,0.5685693150023423,0.6788839919051459
+STU00767,Ira Singh,6.33,general,Hyderabad,INT00026,Zomato,Mobile App Developer Intern,Gurgaon,61191.0,Remote,0.5949459426307226,0.6387851817862694
+STU00667,Sneha Singh,9.11,rural,Mumbai,INT00078,Cognizant,Software Engineer Intern,Mumbai,38394.0,On-site,0.5118922549711437,0.7632845965260664
+STU00291,Sai Chopra,6.94,general,Mumbai,INT00111,Wipro,Full Stack Developer Intern,Gurgaon,46374.0,On-site,0.566590178269145,0.6810909208279556
+STU00347,Ananya Goyal,7.35,general,Surat,INT00181,TCS,Backend Developer Intern,Bangalore,37398.0,Remote,0.586863415004496,0.6491007932662397
+STU00674,Keya Nair,8.19,general,Delhi,INT00177,JP Morgan,InfoSec Intern,Chennai,99132.0,On-site,0.6024877518335258,0.6251670265042102
+STU00129,Sita Sharma,7.32,general,Jaipur,INT00004,EY,Software Engineer Intern,Noida,70294.0,Hybrid,0.5744023909436198,0.6668511900490339
+STU00596,Ajay Kumar,6.52,general,Chennai,INT00036,PwC,ML Engineer Intern,Chennai,62304.0,On-site,0.5775203324095656,0.6612305245895749
+STU00063,Rahul R. Aggarwal,6.05,reserved,Surat,INT00200,Zomato,Deep Learning Intern,Jaipur,43384.0,Remote,0.5825396762793481,0.6533397229889648
+STU00503,Krishna Verma,7.23,reserved,Bangalore,INT00164,Cognizant,Software Engineer Intern,Mumbai,49568.0,Remote,0.5708324579661715,0.6708634184865998
+STU00742,Nisha Iyer,8.1,general,Bangalore,INT00102,Paytm,Data Science Intern,Kolkata,52332.0,Hybrid,0.5499951897591914,0.701839197958722
+STU00031,Aditi Verma,7.56,general,Gurgaon,INT00168,Flipkart,Data Analyst Intern,Kolkata,70819.0,On-site,0.605933886550043,0.6169156820524602
+STU00496,Pooja Joshi,8.14,general,Jaipur,INT00139,Accenture,ML Engineer Intern,Noida,61596.0,Remote,0.5720400541081796,0.6666496255103262
+STU00106,Aditi Bansal,7.52,general,Ahmedabad,INT00065,Freshworks,Mobile App Developer Intern,Noida,41499.0,On-site,0.5691627453329402,0.6708514184976774
+STU00400,Myra Shah,7.29,general,Kolkata,INT00094,Infosys,Full Stack Developer Intern,Delhi,31559.0,On-site,0.5514452385926,0.6973774606855613
+STU00949,Keya Pandey,6.59,general,Mumbai,INT00199,HCL Technologies,Frontend Developer Intern,Mumbai,38715.0,On-site,0.5652467541629725,0.6751558891597874
+STU00769,Karan W. Bansal,6.8,rural,Chennai,INT00157,ICICI Bank,Strategy Intern,Hyderabad,91248.0,Hybrid,0.5577841209760074,0.6858786000351511
+STU00916,Suresh Nair,6.4,general,Gurgaon,INT00036,PwC,ML Engineer Intern,Chennai,62304.0,On-site,0.5975220531308325,0.6262231709186372
+STU00080,Suresh Malhotra,7.56,rural,Gurgaon,INT00113,McKinsey,Product Designer Intern,Noida,88274.0,On-site,0.5767270242715976,0.6558189180523903
+STU00732,Atharv L. Jindal,7.6,general,Chennai,INT00066,PwC,ML Engineer Intern,Delhi,50003.0,On-site,0.5477173996705071,0.69918312563185
+STU00197,Suresh U. Rajput,8.68,rural,Mumbai,INT00175,Amazon,Data Science Intern,Ahmedabad,108143.0,Remote,0.5351559238842938,0.7179616981846659
+STU00473,Saanvi Mehta,6.39,rural,Gurgaon,INT00030,Microsoft,ML Engineer Intern,Noida,143654.0,On-site,0.5835619853326117,0.6450776934912208
+STU00699,Fatima Q. Mehta,7.63,general,Ahmedabad,INT00145,Meta,Cloud Engineer Intern,Ahmedabad,100989.0,On-site,0.535978477062621,0.7159256208188383
+STU00241,Aditya S. Bansal,7.16,general,Pune,INT00082,Amazon,ML Engineer Intern,Surat,141474.0,On-site,0.5860238215956093,0.6408002988009345
+STU00870,Advaith Jain,7.62,rural,Chennai,INT00146,Cognizant,React Developer Intern,Gurgaon,48092.0,On-site,0.5374900854092933,0.7132308363674253
+STU00549,Rita Bansal,7.3,general,Gurgaon,INT00096,Wipro,Software Engineer Intern,Pune,39744.0,Hybrid,0.598801570261841,0.6209684659917036
+STU00563,Nisha Patel,7.49,rural,Kolkata,INT00041,HCL Technologies,Software Engineer Intern,Surat,44284.0,Remote,0.5638381085088381,0.6726653101046816
+STU00215,Ajay S. Joshi,7.45,general,Delhi,INT00189,KPMG,ML Engineer Intern,Bangalore,47882.0,On-site,0.5584715939819441,0.6799691617452959
+STU00270,Vivaan Kapoor,6.61,general,Hyderabad,INT00062,Paytm,React Developer Intern,Bangalore,44482.0,On-site,0.6155114143810265,0.5941951920508799
+STU00608,Tara Iyer,7.94,reserved,Pune,INT00128,Axis Bank,Full Stack Developer Intern,Hyderabad,75074.0,On-site,0.5491928142403044,0.6929073576726519
+STU00182,Saanvi Saxena,7.01,rural,Ahmedabad,INT00037,Swiggy,Machine Learning Intern,Pune,50945.0,Hybrid,0.5931919231950782,0.6268950522239315
+STU00891,Saanvi Sharma,7.5,female,Ahmedabad,INT00141,Microsoft,Data Analyst Intern,Bangalore,119692.0,On-site,0.5414985963926109,0.7038949086582087
+STU00727,Arnav Pandey,6.61,reserved,Mumbai,INT00061,TCS,Full Stack Developer Intern,Mumbai,46027.0,Hybrid,0.6014715852990917,0.6138244254510647
+STU00779,Geeta Chauhan,6.19,general,Mumbai,INT00190,Amazon,Data Science Intern,Pune,130868.0,On-site,0.6320516370644846,0.5679367423160712
+STU00911,Ravi O. Yadav,8.6,general,Pune,INT00199,HCL Technologies,Frontend Developer Intern,Mumbai,38715.0,On-site,0.5880928295902004,0.6337600975590907
+STU00332,Kavya O. Malhotra,7.84,general,Mumbai,INT00174,Wipro,Web Developer Intern,Bangalore,27112.0,On-site,0.5945701894883417,0.6240314110504623
+STU00509,Advaith E. Verma,6.42,rural,Surat,INT00188,BYJU'S,Android Developer Intern,Kolkata,73648.0,On-site,0.5684306158301646,0.6630640773913945
+STU00313,Harsh Pandey,7.66,general,Noida,INT00181,TCS,Backend Developer Intern,Bangalore,37398.0,Remote,0.6044462129632839,0.6090018198329115
+STU00950,Geeta Tiwari,8.13,female,Pune,INT00027,Zomato,iOS Developer Intern,Pune,78750.0,Hybrid,0.6035457830628234,0.6100974785162163
+STU00069,Aadhya M. Shah,6.0,general,Delhi,INT00101,HDFC Bank,Cybersecurity Intern,Delhi,92686.0,On-site,0.6294518545336769,0.5703154607168468
+STU00755,Sneha Z. Jain,6.41,rural,Chennai,INT00198,Ola,Deep Learning Intern,Chennai,53119.0,Hybrid,0.5608762604944961,0.6727665231094225
+STU00616,Harsh F. Aggarwal,7.53,general,Chennai,INT00192,KPMG,Business Analyst Intern,Chennai,57601.0,Hybrid,0.5549433512528734,0.6809450790109496
+STU00722,Riya Saxena,6.08,general,Pune,INT00117,Infosys,Full Stack Developer Intern,Surat,28808.0,On-site,0.5798285977314457,0.6436069195338631
+STU00773,Advaith Yadav,7.4,rural,Mumbai,INT00163,Netflix,Cloud Engineer Intern,Kolkata,87589.0,Remote,0.5605879622654054,0.6712152887764615
+STU00860,Sara Shah,6.91,general,Ahmedabad,INT00008,Cognizant,Full Stack Developer Intern,Chennai,25638.0,On-site,0.6154681648236393,0.5888742060740425
+STU00801,Atharv Goel,8.3,rural,Chennai,INT00056,Accenture,Software Engineer Intern,Pune,60246.0,On-site,0.5507557173353306,0.6856558178530433
+STU00670,Aditya Chauhan,6.75,reserved,Kolkata,INT00104,Amazon,AI Research Intern,Gurgaon,121750.0,Remote,0.5603125099366169,0.671169330545606
+STU00442,Daksh Saxena,7.5,rural,Mumbai,INT00072,Freshworks,Frontend Developer Intern,Pune,67785.0,On-site,0.534700057394441,0.7093113644949214
+STU00814,Vivaan J. Singh,6.72,female,Mumbai,INT00164,Cognizant,Software Engineer Intern,Mumbai,49568.0,Remote,0.5756076292483497,0.6476615522318078
+STU00938,Anika Iyer,7.58,general,Bangalore,INT00103,Flipkart,Data Analyst Intern,Bangalore,57222.0,On-site,0.5683035211462264,0.6581227090942504
+STU00333,Anika Agarwal,6.93,general,Bangalore,INT00044,Infosys,Strategy Intern,Chennai,39156.0,Remote,0.5788534967408523,0.641024800386086
+STU00208,Sita U. Rajput,6.58,general,Chennai,INT00080,HDFC Bank,Business Analyst Intern,Hyderabad,61194.0,Remote,0.5657133785360541,0.6591462170195618
+STU00850,Aadhya Agarwal,7.74,general,Pune,INT00037,Swiggy,Machine Learning Intern,Pune,50945.0,Hybrid,0.5379497349706143,0.6981626801634331
+STU00425,Atharv Pandey,6.85,female,Mumbai,INT00012,TCS,Backend Developer Intern,Hyderabad,38824.0,On-site,0.5726315846849434,0.644231799268135
+STU00255,Dev Goel,7.09,general,Bangalore,INT00011,Meta,Backend Developer Intern,Pune,92363.0,On-site,0.5610562261946651,0.6606021564441886
+STU00928,Aryan Joshi,7.39,reserved,Gurgaon,INT00155,EY,Software Engineer Intern,Ahmedabad,75868.0,On-site,0.5821493645684084,0.6282103738751993
+STU00449,Kavya Singh,7.63,general,Hyderabad,INT00171,PhonePe,ML Engineer Intern,Bangalore,48284.0,On-site,0.5305208924720802,0.7056330507930937
+STU00401,Khushi Sharma,7.11,general,Gurgaon,INT00197,Microsoft,Machine Learning Intern,Pune,116094.0,Remote,0.5528060108321526,0.6720885307211539
+STU00798,Nikhil Mishra,7.34,general,Jaipur,INT00138,Tech Mahindra,Business Analyst Intern,Delhi,34042.0,On-site,0.5436281553536424,0.6851353261769175
+STU00290,Pari Bansal,7.65,reserved,Surat,INT00073,Microsoft,Data Science Intern,Gurgaon,102527.0,On-site,0.5617011854541292,0.6571053230721953
+STU00697,Khushi U. Mittal,8.26,reserved,Chennai,INT00067,TCS,Software Engineer Intern,Delhi,34425.0,On-site,0.5830829040468827,0.6243705812958245
+STU00914,Aryan W. Patel,7.53,general,Delhi,INT00181,TCS,Backend Developer Intern,Bangalore,37398.0,Remote,0.5414379247374971,0.6859914851534905
+STU00631,Ayaan Yadav,7.52,reserved,Gurgaon,INT00143,ICICI Bank,Product Management Intern,Gurgaon,85633.0,On-site,0.5651826171105925,0.6494621735357384
+STU00035,Kavya Thakur,7.32,general,Surat,INT00148,Cognizant,Full Stack Developer Intern,Kolkata,37232.0,On-site,0.5347177555658283,0.6950930472451913
+STU00652,Ananya Tiwari,7.95,general,Ahmedabad,INT00048,Google,Data Science Intern,Ahmedabad,134459.0,On-site,0.5247920431541988,0.7091818478897959
+STU00701,Arnav Agarwal,7.17,rural,Surat,INT00042,Paytm,Data Analyst Intern,Chennai,64524.0,On-site,0.5480274510964197,0.6742469124673551
+STU00004,Ravi W. Joshi,7.14,general,Mumbai,INT00101,HDFC Bank,Cybersecurity Intern,Delhi,92686.0,On-site,0.5446971982046263,0.6792226191969007
+STU00187,Riya Y. Kumar,7.37,general,Hyderabad,INT00100,Goldman Sachs,ML Engineer Intern,Hyderabad,90570.0,Remote,0.5982647105798724,0.5979956870965345
+STU00462,Nikhil Verma,7.13,general,Delhi,INT00045,Microsoft,Site Reliability Intern,Pune,91959.0,On-site,0.5474522315744486,0.6739404210287343
+STU00178,Vikram Nair,6.47,reserved,Surat,INT00187,Tech Mahindra,Software Engineer Intern,Ahmedabad,37157.0,Remote,0.5489490031915997,0.6710556505616956
+STU00242,Ayaan U. Yadav,6.01,general,Delhi,INT00020,TCS,Full Stack Developer Intern,Kolkata,25812.0,On-site,0.6016300745411183,0.5907246283473525
+STU00680,Rahul Rajput,6.39,general,Jaipur,INT00097,Deloitte,Business Analyst Intern,Hyderabad,74006.0,Remote,0.6104655989135677,0.5772449932231454
+STU00723,Ravi L. Saxena,6.59,general,Gurgaon,INT00193,Zomato,Android Developer Intern,Jaipur,61684.0,Hybrid,0.5941967917795677,0.599929473553171
+STU00912,Tara T. Mehta,7.42,general,Surat,INT00014,EY,Backend Developer Intern,Surat,89019.0,On-site,0.5415339644375825,0.678796698723954
+STU00434,Pari B. Tiwari,8.29,rural,Jaipur,INT00063,Google,Cloud Engineer Intern,Pune,88330.0,On-site,0.5165979071765168,0.7154709425316117
+STU00405,Keya W. Joshi,6.13,reserved,Surat,INT00041,HCL Technologies,Software Engineer Intern,Surat,44284.0,Remote,0.5542922332891123,0.6570641910201799
+STU00904,Pooja Shah,7.02,general,Mumbai,INT00174,Wipro,Web Developer Intern,Bangalore,27112.0,On-site,0.556230684817286,0.6536053220947852
+STU00042,Nikhil Kapoor,6.95,general,Delhi,INT00104,Amazon,AI Research Intern,Gurgaon,121750.0,Remote,0.5422243177239771,0.6737712980515524
+STU00525,Rohan Goyal,7.02,general,Hyderabad,INT00127,Swiggy,ML Engineer Intern,Pune,65540.0,On-site,0.5892378755362533,0.603093931778381
+STU00424,Daksh Mishra,7.05,general,Surat,INT00134,Freshworks,Frontend Developer Intern,Gurgaon,60155.0,Remote,0.545911335314285,0.6676318710748542
+STU00021,Ajay Mittal,6.26,general,Ahmedabad,INT00114,ICICI Bank,InfoSec Intern,Kolkata,81207.0,On-site,0.5650516990432465,0.6383079298760261
+STU00524,Aditya Saxena,6.85,general,Surat,INT00158,Google,Cloud Engineer Intern,Kolkata,121071.0,Remote,0.5503820727129382,0.6601551343954515
+STU00413,Sai Jindal,7.55,female,Surat,INT00117,Infosys,Full Stack Developer Intern,Surat,28808.0,On-site,0.534527462934628,0.6820286140748865
+STU00833,Tara Tiwari,6.56,rural,Gurgaon,INT00104,Amazon,AI Research Intern,Gurgaon,121750.0,Remote,0.5689204278578484,0.6302057621540239
+STU00101,Aditi H. Verma,6.49,reserved,Kolkata,INT00192,KPMG,Business Analyst Intern,Chennai,57601.0,Hybrid,0.5581741648843273,0.645049855636756
+STU00046,Kartik I. Saxena,6.03,general,Delhi,INT00059,Microsoft,Site Reliability Intern,Hyderabad,119893.0,On-site,0.5830252836881644,0.6073470972932185
+STU00522,Sara Y. Goyal,7.87,rural,Kolkata,INT00077,Netflix,ML Engineer Intern,Pune,88109.0,On-site,0.5202314720932861,0.7011234410847554
+STU00237,Aadhya V. Chauhan,6.25,rural,Pune,INT00156,TCS,Business Analyst Intern,Chennai,33979.0,On-site,0.5482680563052938,0.659058359680367
+STU00653,Aditi Kumar,7.08,general,Hyderabad,INT00146,Cognizant,React Developer Intern,Gurgaon,48092.0,On-site,0.553693731199399,0.6486406486905161
+STU00622,Dev Jindal,8.06,general,Delhi,INT00079,Goldman Sachs,Full Stack Developer Intern,Kolkata,80331.0,Remote,0.5196680457756516,0.6994566729660707
+STU00172,Suresh A. Malhotra,7.65,general,Ahmedabad,INT00128,Axis Bank,Full Stack Developer Intern,Hyderabad,75074.0,On-site,0.5769851072835424,0.6126713369972004
+STU00577,Nikhil Tiwari,6.66,general,Jaipur,INT00047,Apple,Full Stack Developer Intern,Surat,143532.0,On-site,0.5444215596671045,0.6613894092785797
+STU00961,Keya J. Nair,7.29,rural,Surat,INT00051,Amazon,Full Stack Developer Intern,Chennai,100232.0,Remote,0.5385309768142351,0.6693459779994374
+STU00760,Darsh Iyer,6.76,female,Delhi,INT00112,Axis Bank,Data Science Intern,Pune,97221.0,On-site,0.5581826627729481,0.6386951636539969
+STU00878,Fatima F. Gupta,6.91,female,Jaipur,INT00100,Goldman Sachs,ML Engineer Intern,Hyderabad,90570.0,Remote,0.5338607583548988,0.6740689407970005
+STU00971,Sneha V. Mehta,7.0,reserved,Gurgaon,INT00044,Infosys,Strategy Intern,Chennai,39156.0,Remote,0.5699258140129444,0.6194928992821537
+STU00810,Sneha Goyal,7.29,general,Mumbai,INT00071,Deloitte,Product Management Intern,Hyderabad,40503.0,On-site,0.5305695998591454,0.6771864678771344
+STU00809,Atharv Goyal,7.4,female,Kolkata,INT00097,Deloitte,Business Analyst Intern,Hyderabad,74006.0,Remote,0.5460389412361336,0.6538058698936622
+STU00618,Shaurya Verma,6.42,reserved,Chennai,INT00075,HCL Technologies,Frontend Developer Intern,Noida,40202.0,On-site,0.5633015611237734,0.6273820439505987
+STU00647,Ishaan Jain,6.23,rural,Pune,INT00124,JP Morgan,InfoSec Intern,Gurgaon,75792.0,Hybrid,0.5601084461078407,0.6316098307703001
+STU00475,Aditi S. Tiwari,7.06,general,Delhi,INT00068,KPMG,Data Science Intern,Mumbai,79911.0,On-site,0.5283357323114939,0.6784740770843369
+STU00285,Anika Tiwari,6.38,general,Kolkata,INT00026,Zomato,Mobile App Developer Intern,Gurgaon,61191.0,Remote,0.5496734206438658,0.6463034439390077
+STU00181,Ishaan Mehta,7.72,rural,Chennai,INT00039,PhonePe,Frontend Developer Intern,Chennai,52977.0,On-site,0.5157383321610219,0.69641910320389
+STU00913,Khushi V. Chauhan,6.3,general,Noida,INT00140,Freshworks,Android Developer Intern,Surat,53369.0,Remote,0.5559586103191103,0.6351694268271004
+STU00501,Amit Sharma,6.57,rural,Pune,INT00065,Freshworks,Mobile App Developer Intern,Noida,41499.0,On-site,0.53665857983684,0.661025673288292
+STU00174,Geeta Malhotra,7.02,reserved,Gurgaon,INT00062,Paytm,React Developer Intern,Bangalore,44482.0,On-site,0.5497121003748522,0.6412350279419045
+STU00589,Kavya Tiwari,6.98,rural,Kolkata,INT00114,ICICI Bank,InfoSec Intern,Kolkata,81207.0,On-site,0.5838521868624065,0.5868150495595488
+STU00233,Vivaan Mittal,6.33,rural,Noida,INT00166,Google,Software Engineer Intern,Gurgaon,122179.0,Remote,0.56744897364212,0.6110353870633969
+STU00118,Myra Patel,7.44,reserved,Gurgaon,INT00137,Wipro,Software Engineer Intern,Delhi,25404.0,Hybrid,0.5224234205866448,0.6775109211585251
+STU00494,Vihaan Bansal,6.7,general,Delhi,INT00159,Meta,Deep Learning Intern,Delhi,91362.0,On-site,0.6048932524504484,0.5534022765739367
+STU00388,Fatima Agarwal,7.39,reserved,Gurgaon,INT00097,Deloitte,Business Analyst Intern,Hyderabad,74006.0,Remote,0.5189971080362833,0.681862521169226
+STU00716,Amit C. Joshi,6.82,reserved,Bangalore,INT00114,ICICI Bank,InfoSec Intern,Kolkata,81207.0,On-site,0.5332530369231262,0.6602325969026605
+STU00025,Ira Mehta,7.01,general,Gurgaon,INT00126,HDFC Bank,Software Engineer Intern,Ahmedabad,72453.0,On-site,0.5364891689560529,0.6551005737122879
+STU00379,Krishna Saxena,7.52,general,Surat,INT00163,Netflix,Cloud Engineer Intern,Kolkata,87589.0,Remote,0.5310375073811149,0.6631519133897457
+STU00176,Kartik Mishra,6.96,rural,Chennai,INT00145,Meta,Cloud Engineer Intern,Ahmedabad,100989.0,On-site,0.5535706584236642,0.6291338095547566
+STU00385,Ajay X. Goyal,6.98,general,Surat,INT00193,Zomato,Android Developer Intern,Jaipur,61684.0,Hybrid,0.54122943238251,0.6475075357901625
+STU00686,Advaith Pandey,6.84,general,Noida,INT00128,Axis Bank,Full Stack Developer Intern,Hyderabad,75074.0,On-site,0.5725335874394686,0.6003883909599839
+STU00310,Vivaan Chauhan,6.99,general,Ahmedabad,INT00063,Google,Cloud Engineer Intern,Pune,88330.0,On-site,0.5338718006131102,0.6579302819715496
+STU00997,Nikhil Shah,7.83,general,Surat,INT00111,Wipro,Full Stack Developer Intern,Gurgaon,46374.0,On-site,0.5341559885838868,0.6572385508275265
+STU00994,Aadhya G. Rajput,6.17,rural,Bangalore,INT00191,Axis Bank,Backend Developer Intern,Kolkata,116850.0,Remote,0.5451635276173481,0.640469228312071
+STU00474,Karan Kapoor,6.99,rural,Chennai,INT00187,Tech Mahindra,Software Engineer Intern,Ahmedabad,37157.0,Remote,0.5337042281601208,0.6564421445635389
+STU00703,Riya Verma,7.76,general,Jaipur,INT00188,BYJU'S,Android Developer Intern,Kolkata,73648.0,On-site,0.5198697396816914,0.6768755752881774
+STU00162,Arjun Thakur,6.89,general,Bangalore,INT00152,PwC,Business Analyst Intern,Chennai,43890.0,Remote,0.5466746732869153,0.6365355468476745
+STU00785,Dev Malhotra,6.55,general,Noida,INT00135,TCS,Business Analyst Intern,Bangalore,36659.0,On-site,0.599199205416333,0.5571632346976525
+STU00269,Ayaan E. Kumar,6.08,general,Delhi,INT00009,Netflix,Deep Learning Intern,Gurgaon,107760.0,On-site,0.5566448874912922,0.6209422199327183
+STU00295,Harsh Jindal,6.53,general,Pune,INT00120,PwC,Product Designer Intern,Mumbai,87700.0,On-site,0.5852535471434115,0.5775060254811194
+STU00747,Aadhya Thakur,6.96,female,Pune,INT00164,Cognizant,Software Engineer Intern,Mumbai,49568.0,Remote,0.5238374462845539,0.6690411496430486
+STU00951,Ravi Thakur,6.37,female,Delhi,INT00159,Meta,Deep Learning Intern,Delhi,91362.0,On-site,0.5730164968456913,0.5952020925672894
+STU00688,Harsh Joshi,6.64,general,Jaipur,INT00009,Netflix,Deep Learning Intern,Gurgaon,107760.0,On-site,0.5887564193166749,0.5702293369541414
+STU00824,Reyansh Gupta,6.65,general,Kolkata,INT00163,Netflix,Cloud Engineer Intern,Kolkata,87589.0,Remote,0.5384719323188925,0.6451152980393134
+STU00972,Kavya Y. Joshi,6.98,general,Gurgaon,INT00109,JP Morgan,Product Management Intern,Ahmedabad,106801.0,Remote,0.5218200588405735,0.6692363770023083
+STU00344,Ayaan Bansal,6.35,rural,Jaipur,INT00109,JP Morgan,Product Management Intern,Ahmedabad,106801.0,Remote,0.5379444256723309,0.6442122367829194
+STU00403,Arjun T. Chopra,7.18,general,Pune,INT00127,Swiggy,ML Engineer Intern,Pune,65540.0,On-site,0.5397279056678372,0.6412379714585845
+STU00989,Geeta Agarwal,7.92,female,Kolkata,INT00079,Goldman Sachs,Full Stack Developer Intern,Kolkata,80331.0,Remote,0.5048417027122195,0.6927005876773092
+STU00702,Nisha Rajput,7.01,female,Hyderabad,INT00158,Google,Cloud Engineer Intern,Kolkata,121071.0,Remote,0.553160649183131,0.6200751921411346
+STU00017,Atharv Q. Jindal,6.73,general,Chennai,INT00017,JP Morgan,Software Engineer Intern,Chennai,67564.0,Hybrid,0.5369001995518199,0.6427105980588271
+STU00144,Ayaan Kapoor,6.23,female,Jaipur,INT00033,KPMG,Strategy Intern,Noida,77924.0,On-site,0.5615260262160414,0.605375697543276
+STU00152,Keya J. Agarwal,6.79,female,Chennai,INT00169,Google,Cloud Engineer Intern,Chennai,144491.0,Remote,0.548881101842579,0.6202023112914135
+STU00894,Vivaan Rajput,6.46,reserved,Ahmedabad,INT00178,JP Morgan,Data Science Intern,Bangalore,97728.0,Remote,0.5310191790782529,0.6464701459597486
+STU00145,Sita Mittal,6.01,general,Kolkata,INT00163,Netflix,Cloud Engineer Intern,Kolkata,87589.0,Remote,0.571935542703625,0.584303784430479
+STU00625,Anaya P. Malhotra,6.81,reserved,Bangalore,INT00161,Apple,Backend Developer Intern,Jaipur,130703.0,Remote,0.5230090875515427,0.6574728255888572
+STU00253,Pari F. Sharma,7.24,reserved,Gurgaon,INT00198,Ola,Deep Learning Intern,Chennai,53119.0,Hybrid,0.5328294679736099,0.6422588908607797
+STU00065,Vihaan Patel,7.7,female,Surat,INT00112,Axis Bank,Data Science Intern,Pune,97221.0,On-site,0.514580005328651,0.6693664171280223
+STU00805,Advaith C. Thakur,7.49,general,Surat,INT00104,Amazon,AI Research Intern,Gurgaon,121750.0,Remote,0.529124303683141,0.6452847666425402
+STU00395,Daksh Bansal,7.76,general,Kolkata,INT00081,Zomato,Mobile App Developer Intern,Gurgaon,45109.0,Remote,0.5280731768403909,0.6453853093957717
+STU00527,Kavya H. Iyer,6.22,general,Surat,INT00067,TCS,Software Engineer Intern,Delhi,34425.0,On-site,0.5680370461727786,0.5830033690672382
+STU00251,Rohan O. Goel,6.54,rural,Noida,INT00168,Flipkart,Data Analyst Intern,Kolkata,70819.0,On-site,0.5561469951015787,0.5995596161714526
+STU00077,Vikram Aggarwal,6.44,general,Bangalore,INT00088,Amazon,ML Engineer Intern,Pune,97486.0,On-site,0.5499742393868997,0.6070579092870785
+STU00456,Rekha Sharma,7.65,general,Noida,INT00173,Netflix,Backend Developer Intern,Bangalore,112748.0,Remote,0.5576677287538183,0.5955022391728548
+STU00166,Anaya Chopra,6.51,rural,Delhi,INT00008,Cognizant,Full Stack Developer Intern,Chennai,25638.0,On-site,0.5394059277325692,0.622696041772035
+STU00963,Daksh F. Nair,6.82,general,Kolkata,INT00027,Zomato,iOS Developer Intern,Pune,78750.0,Hybrid,0.5199135797136093,0.6501927984217126
+STU00358,Pihu W. Sharma,6.45,rural,Chennai,INT00152,PwC,Business Analyst Intern,Chennai,43890.0,Remote,0.5234147489467164,0.6436615654500044
+STU00125,Arnav Chopra,7.26,female,Mumbai,INT00152,PwC,Business Analyst Intern,Chennai,43890.0,Remote,0.5142025828824728,0.6574348700774908
+STU00881,Harsh Joshi,7.56,rural,Bangalore,INT00168,Flipkart,Data Analyst Intern,Kolkata,70819.0,On-site,0.5001634344903887,0.6775845557101454
+STU00005,Khushi Aggarwal,7.37,general,Pune,INT00116,PhonePe,Data Analyst Intern,Delhi,51217.0,On-site,0.5668867935187412,0.5772417455325161
+STU00715,Ayaan Thakur,6.7,rural,Noida,INT00187,Tech Mahindra,Software Engineer Intern,Ahmedabad,37157.0,Remote,0.5736713470435343,0.5669393202030358
+STU00633,Advaith Kapoor,7.09,general,Pune,INT00170,Axis Bank,Product Management Intern,Kolkata,64904.0,On-site,0.5179054075077609,0.6505108220100487
+STU00477,Rekha Singh,6.54,rural,Pune,INT00072,Freshworks,Frontend Developer Intern,Pune,67785.0,On-site,0.5282590035525212,0.634906975706852
+STU00372,Atharv Thakur,6.41,reserved,Kolkata,INT00062,Paytm,React Developer Intern,Bangalore,44482.0,On-site,0.5577646660393589,0.590283221109878
+STU00170,Rahul Z. Rajput,7.17,rural,Surat,INT00095,Freshworks,Data Analyst Intern,Ahmedabad,42953.0,On-site,0.5292619526116602,0.6328230505158083
+STU00877,Aditi Saxena,6.9,reserved,Surat,INT00124,JP Morgan,InfoSec Intern,Gurgaon,75792.0,Hybrid,0.5155261463476144,0.6532875288595139
+STU00750,Aditya F. Gupta,6.68,rural,Delhi,INT00167,Morgan Stanley,Full Stack Developer Intern,Delhi,116756.0,On-site,0.5277116384562829,0.6348927409933366
+STU00799,Tara T. Pandey,6.62,rural,Bangalore,INT00013,TCS,Full Stack Developer Intern,Kolkata,32004.0,Remote,0.5356275883498884,0.6217328199194557
+STU00925,Arjun Nair,7.18,female,Delhi,INT00084,McKinsey,ML Engineer Intern,Hyderabad,55451.0,On-site,0.5077592922514798,0.6634889456038108
+STU00623,Meena Goel,7.48,general,Bangalore,INT00185,Tech Mahindra,Full Stack Developer Intern,Gurgaon,35849.0,On-site,0.5505595742408168,0.5983482463531792
+STU00629,Sneha Gupta,6.86,general,Surat,INT00047,Apple,Full Stack Developer Intern,Surat,143532.0,On-site,0.5221482925200969,0.6396966019783896
+STU00698,Amit B. Gupta,6.6,general,Hyderabad,INT00130,HCL Technologies,Software Engineer Intern,Mumbai,25216.0,On-site,0.5555627224798068,0.587460372326733
+STU00161,Kartik Goel,6.56,rural,Noida,INT00170,Axis Bank,Product Management Intern,Kolkata,64904.0,On-site,0.5472018682240469,0.5998574103665085
+STU00721,Meena Chopra,6.38,female,Noida,INT00178,JP Morgan,Data Science Intern,Bangalore,97728.0,Remote,0.6000896005038728,0.5202905311273794
+STU00995,Myra D. Jindal,6.09,rural,Chennai,INT00187,Tech Mahindra,Software Engineer Intern,Ahmedabad,37157.0,Remote,0.5389124355419902,0.611024401397984
+STU00140,Krishna Saxena,6.74,general,Hyderabad,INT00071,Deloitte,Product Management Intern,Hyderabad,40503.0,On-site,0.5380294007338937,0.6123328296535089
+STU00019,Geeta T. Chauhan,6.12,general,Hyderabad,INT00013,TCS,Full Stack Developer Intern,Kolkata,32004.0,Remote,0.5631049450186818,0.5743174508497723
+STU00130,Harsh N. Patel,6.74,general,Noida,INT00179,Microsoft,Site Reliability Intern,Jaipur,110490.0,On-site,0.5287262981824848,0.6241571535193289
+STU00002,Neha Aggarwal,6.36,general,Hyderabad,INT00026,Zomato,Mobile App Developer Intern,Gurgaon,61191.0,Remote,0.5538322873764455,0.5861419156792624
+STU00247,Riya Kumar,7.16,female,Jaipur,INT00036,PwC,ML Engineer Intern,Chennai,62304.0,On-site,0.5084594857169512,0.6532159994983083
+STU00864,Ira Agarwal,6.24,general,Mumbai,INT00096,Wipro,Software Engineer Intern,Pune,39744.0,Hybrid,0.54946834722308,0.590589548010801
+STU00039,Krishna Kumar,6.22,rural,Ahmedabad,INT00187,Tech Mahindra,Software Engineer Intern,Ahmedabad,37157.0,Remote,0.5503492917724147,0.588727889802115
+STU00572,Nikhil Joshi,6.27,reserved,Delhi,INT00047,Apple,Full Stack Developer Intern,Surat,143532.0,On-site,0.5244735283890143,0.6262081934406472
+STU00897,Shaurya Nair,7.02,rural,Surat,INT00116,PhonePe,Data Analyst Intern,Delhi,51217.0,On-site,0.5076282618030357,0.651435684025754
+STU00730,Vikram Z. Sharma,6.09,general,Ahmedabad,INT00013,TCS,Full Stack Developer Intern,Kolkata,32004.0,Remote,0.5288627589582721,0.6194299130274357
+STU00324,Suresh Mishra,6.29,general,Delhi,INT00040,Accenture,Business Analyst Intern,Delhi,47476.0,On-site,0.5272242489455836,0.621863327510758
+STU00682,Shaurya F. Tiwari,6.01,rural,Delhi,INT00163,Netflix,Cloud Engineer Intern,Kolkata,87589.0,Remote,0.5927624869685956,0.5230354998306083
+STU00363,Reyansh A. Gupta,6.81,general,Delhi,INT00004,EY,Software Engineer Intern,Noida,70294.0,Hybrid,0.5350629060263636,0.609516261727217
+STU00325,Suresh Joshi,6.37,general,Chennai,INT00023,McKinsey,Product Management Intern,Noida,63869.0,Remote,0.5471395372506438,0.5908114930585087
+STU00283,Suresh C. Goel,6.44,general,Noida,INT00020,TCS,Full Stack Developer Intern,Kolkata,25812.0,On-site,0.5572792959862306,0.5737137387579742
+STU00086,Pooja Goel,6.55,general,Bangalore,INT00147,TCS,Web Developer Intern,Surat,44561.0,On-site,0.5153045540216087,0.6362948832340004
+STU00720,Sunita Saxena,6.62,rural,Noida,INT00049,McKinsey,Data Science Intern,Bangalore,78465.0,On-site,0.5679363264709089,0.5559886694431186
+STU00745,Ayaan T. Rajput,7.7,general,Pune,INT00044,Infosys,Strategy Intern,Chennai,39156.0,Remote,0.5340410585870068,0.6061975120970846
+STU00976,Aahan Iyer,7.16,general,Delhi,INT00138,Tech Mahindra,Business Analyst Intern,Delhi,34042.0,On-site,0.5338663647349401,0.6044556231043389
+STU00786,Vikram X. Sharma,7.19,general,Noida,INT00164,Cognizant,Software Engineer Intern,Mumbai,49568.0,Remote,0.5372933921582079,0.5979758297243151
+STU00445,Anika Pandey,6.53,rural,Jaipur,INT00027,Zomato,iOS Developer Intern,Pune,78750.0,Hybrid,0.5516429610564656,0.5753442643461999
+STU00222,Lata Kumar,6.35,general,Delhi,INT00173,Netflix,Backend Developer Intern,Bangalore,112748.0,Remote,0.5196976703826877,0.622845990301494
+STU00952,Atharv Verma,6.93,general,Surat,INT00103,Flipkart,Data Analyst Intern,Bangalore,57222.0,On-site,0.5554085595434536,0.5685928577701966
+STU00112,Pihu Agarwal,7.22,general,Kolkata,INT00009,Netflix,Deep Learning Intern,Gurgaon,107760.0,On-site,0.5586394984312172,0.563446620364356
+STU00569,Sneha Z. Shah,6.16,rural,Mumbai,INT00114,ICICI Bank,InfoSec Intern,Kolkata,81207.0,On-site,0.5432434922473903,0.5851739125704333
+STU00377,Meena L. Tiwari,6.56,general,Bangalore,INT00064,McKinsey,Data Analyst Intern,Gurgaon,67936.0,Hybrid,0.525552353209807,0.6097223457218762
+STU00326,Ananya Joshi,6.64,general,Pune,INT00148,Cognizant,Full Stack Developer Intern,Kolkata,37232.0,On-site,0.5291118674753944,0.6016849240052238
+STU00587,Rahul Goyal,6.02,general,Hyderabad,INT00071,Deloitte,Product Management Intern,Hyderabad,40503.0,On-site,0.5940317678745637,0.503729524867838
+STU00307,Ayaan Thakur,6.28,female,Pune,INT00135,TCS,Business Analyst Intern,Bangalore,36659.0,On-site,0.5494692355677063,0.5695707423013966
+STU00275,Harsh J. Nair,6.11,general,Jaipur,INT00179,Microsoft,Site Reliability Intern,Jaipur,110490.0,On-site,0.5359618876901251,0.5894746328418559
+STU00141,Ayaan Bansal,6.71,general,Pune,INT00101,HDFC Bank,Cybersecurity Intern,Delhi,92686.0,On-site,0.5102479768013362,0.6280196298794075
+STU00627,Aditi Joshi,6.51,general,Pune,INT00155,EY,Software Engineer Intern,Ahmedabad,75868.0,On-site,0.5172275861352176,0.6161696474789988
+STU00356,Aryan J. Shah,7.24,general,Chennai,INT00046,Goldman Sachs,InfoSec Intern,Mumbai,67597.0,Remote,0.49484472043505795,0.6492962478099827
+STU00287,Vihaan Rajput,6.02,general,Kolkata,INT00081,Zomato,Mobile App Developer Intern,Gurgaon,45109.0,Remote,0.5196017207602482,0.6093806656520895
+STU00316,Arjun Pandey,6.84,general,Bangalore,INT00069,JP Morgan,Software Engineer Intern,Bangalore,84654.0,Remote,0.5090831265656687,0.622830687429544
+STU00331,Khushi Aggarwal,7.62,rural,Jaipur,INT00078,Cognizant,Software Engineer Intern,Mumbai,38394.0,On-site,0.5084737741213363,0.6225580121974261
+STU00939,Sita Q. Chopra,6.44,general,Bangalore,INT00104,Amazon,AI Research Intern,Gurgaon,121750.0,Remote,0.5492679968794522,0.5593552107569808
+STU00763,Priya Sharma,6.08,female,Noida,INT00122,Amazon,Data Analyst Intern,Chennai,108477.0,On-site,0.5152484896099334,0.6094625039245006
+STU00418,Advaith Thakur,6.02,general,Bangalore,INT00143,ICICI Bank,Product Management Intern,Gurgaon,85633.0,On-site,0.5146975352504158,0.6102789790647493
+STU00988,Rita V. Tiwari,6.65,general,Surat,INT00107,Axis Bank,ML Engineer Intern,Jaipur,96758.0,On-site,0.5022723376436551,0.6280852855876315
+STU00918,Advaith B. Sharma,6.67,reserved,Noida,INT00156,TCS,Business Analyst Intern,Chennai,33979.0,On-site,0.5176298956479288,0.604502528295225
+STU00195,Aditi Mishra,7.29,rural,Delhi,INT00169,Google,Cloud Engineer Intern,Chennai,144491.0,Remote,0.5050421159019896,0.6230628884128284
+STU00433,Ananya Y. Sharma,6.85,general,Noida,INT00177,JP Morgan,InfoSec Intern,Chennai,99132.0,On-site,0.4966011158204046,0.6353479257006867
+STU00263,Aarav Jain,6.79,rural,Hyderabad,INT00196,Tech Mahindra,Full Stack Developer Intern,Hyderabad,32253.0,On-site,0.5055077292715413,0.6201348033099514
+STU00008,Harsh E. Verma,6.59,general,Chennai,INT00146,Cognizant,React Developer Intern,Gurgaon,48092.0,On-site,0.50154665144344,0.6257830853504632
+STU00575,Ravi L. Sharma,6.83,rural,Surat,INT00095,Freshworks,Data Analyst Intern,Ahmedabad,42953.0,On-site,0.5007754413051233,0.6222147307798658
+STU00223,Myra Mishra,6.29,female,Pune,INT00124,JP Morgan,InfoSec Intern,Gurgaon,75792.0,Hybrid,0.5622278690671466,0.528314208947627
+STU00712,Dev Jain,6.34,rural,Mumbai,INT00171,PhonePe,ML Engineer Intern,Bangalore,48284.0,On-site,0.511438716105231,0.6017344556010049
+STU00341,Saanvi Saxena,6.42,reserved,Ahmedabad,INT00169,Google,Cloud Engineer Intern,Chennai,144491.0,Remote,0.5249336864572172,0.5812457932579946
+STU00926,Diya Gupta,6.75,rural,Jaipur,INT00074,TCS,Web Developer Intern,Jaipur,41727.0,On-site,0.570522533107575,0.5117705657567009
+STU00328,Advaith Iyer,6.64,general,Mumbai,INT00117,Infosys,Full Stack Developer Intern,Surat,28808.0,On-site,0.5409434290460082,0.5530609054396852
+STU00685,Ajay Mishra,7.26,general,Ahmedabad,INT00090,Amazon,Backend Developer Intern,Ahmedabad,137637.0,On-site,0.5483176246268898,0.5409076714585335
+STU00185,Ravi Chopra,6.47,female,Pune,INT00046,Goldman Sachs,InfoSec Intern,Mumbai,67597.0,Remote,0.536166519610568,0.5578345341973174
+STU00444,Geeta Mehta,7.07,general,Ahmedabad,INT00037,Swiggy,Machine Learning Intern,Pune,50945.0,Hybrid,0.48214328321088473,0.6348319727040903
+STU00794,Shaurya Pandey,6.06,general,Surat,INT00199,HCL Technologies,Frontend Developer Intern,Mumbai,38715.0,On-site,0.5367280821978309,0.5510991278046948
+STU00439,Kavya Jindal,6.58,general,Mumbai,INT00085,HCL Technologies,Frontend Developer Intern,Bangalore,25622.0,On-site,0.5131370260550863,0.5804019925461126
+STU00771,Vihaan Saxena,6.19,general,Pune,INT00161,Apple,Backend Developer Intern,Jaipur,130703.0,Remote,0.5182110569723483,0.5706257120865947
+STU00552,Aryan Agarwal,6.05,general,Surat,INT00047,Apple,Full Stack Developer Intern,Surat,143532.0,On-site,0.5437873925836956,0.5309666251139997
+STU00707,Harsh Jindal,6.3,rural,Kolkata,INT00055,Deloitte,Backend Developer Intern,Mumbai,41437.0,On-site,0.5187682156249397,0.5659940587400426
+STU00058,Atharv Kapoor,6.67,general,Pune,INT00019,Deloitte,Business Analyst Intern,Mumbai,48352.0,On-site,0.5389929782944116,0.5312530906052216
+STU00847,Darsh Rajput,6.29,rural,Bangalore,INT00075,HCL Technologies,Frontend Developer Intern,Noida,40202.0,On-site,0.56295844459244,0.49508575587455067
+STU00565,Harsh Z. Kumar,6.13,general,Ahmedabad,INT00094,Infosys,Full Stack Developer Intern,Delhi,31559.0,On-site,0.5353588023741228,0.5361739575180158
+STU00079,Dev F. Kapoor,6.37,rural,Bangalore,INT00187,Tech Mahindra,Software Engineer Intern,Ahmedabad,37157.0,Remote,0.51039557124123,0.5633949708876904
+STU00410,Vihaan Iyer,6.62,general,Bangalore,INT00126,HDFC Bank,Software Engineer Intern,Ahmedabad,72453.0,On-site,0.4837965276860249,0.5985900025001032
+STU00338,Shaurya Mittal,6.75,reserved,Surat,INT00145,Meta,Cloud Engineer Intern,Ahmedabad,100989.0,On-site,0.5485409903773505,0.5011466435967344
+STU00668,Arjun Kumar,6.24,general,Surat,INT00196,Tech Mahindra,Full Stack Developer Intern,Hyderabad,32253.0,On-site,0.4996323448754263,0.5717613379215343
+STU00490,Geeta Sharma,6.66,general,Ahmedabad,INT00002,Axis Bank,ML Engineer Intern,Kolkata,74110.0,On-site,0.5234565138555346,0.5275504825673536
+STU00906,Lata I. Kapoor,6.45,general,Chennai,INT00092,PwC,Backend Developer Intern,Ahmedabad,42040.0,Hybrid,0.4815044928978077,0.5833997244716378
