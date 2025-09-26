@@ -6,7 +6,7 @@ ortools==9.7.2996
 
 # Data Processing
 pandas==2.0.3
-numpy==1.24.3
+numpy==1.26.4   # updated for compatibility with Python 3.11+
 
 # API and Web Framework
 fastapi==0.104.1
@@ -15,7 +15,7 @@ pydantic==2.5.0
 
 # Database
 sqlalchemy==2.0.21
-sqlite3
+# sqlite3 <-- REMOVED, comes built-in with Python
 
 # Visualization and Analysis
 matplotlib==3.7.2
