@@ -393,7 +393,7 @@ async def get_dashboard_stats():
         total_capacity = float(internships_df['capacity'].sum())
         total_students = float(len(students_df))
         placement_potential = min(100.0, (total_capacity / total_students * 100)) if total_students > 0 else 0.0
-        
+         
         result = {
             "total_students": int(len(students_df)),
             "total_internships": int(len(internships_df)),

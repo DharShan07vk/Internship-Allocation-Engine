@@ -410,8 +410,8 @@ def main():
     
     # Save datasets in current directory (data folder)
     print(f"\n💾 Saving datasets in current directory...")
-    students_df.to_csv('students_enhanced.csv', index=False)
-    internships_df.to_csv('internships_enhanced.csv', index=False)
+    students_df.to_csv('students_enhanced22.csv', index=False)
+    internships_df.to_csv('internships_enh22anced.csv', index=False)
     
     # Save metadata
     metadata = save_generation_metadata(student_seed, internship_seed, NUM_STUDENTS, NUM_INTERNSHIPS)

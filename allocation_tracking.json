@@ -3,12 +3,12 @@
   "processing_applications": 0,
   "completed_allocations": 0,
   "pending_reviews": 0,
-  "last_updated": "2025-09-16T01:29:29.503101",
+  "last_updated": "2025-09-27T14:12:36.789210",
   "allocation_status": "pending",
   "allocation_round": 1,
   "generation_info": {
-    "student_seed": 66368,
-    "generation_time": "2025-09-16T01:29:29.503101",
+    "student_seed": 62556,
+    "generation_time": "2025-09-27T14:12:36.789210",
     "is_unique": true
   }
 }
